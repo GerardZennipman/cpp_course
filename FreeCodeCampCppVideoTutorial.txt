@@ -1,0 +1,4377 @@
+Mo 29-Sep-25
+
+FreeCodeCampCppVideoTutorial.txt
+
+ChatGPT:
+- https://chatgpt.com/
+- gerard.zennipman@gmail.com
+- The_Police#872
+
+ClaudeAI:
+- https://claude.ai/
+- gerard.zennipman@gmail.com
+
+ChatGPT: good c++ course
+
+ClaudeAI: good c++ course
+ClaudeAI: Is freeCodeCamp C++ with video tutorial also good?
+ClaudeAI: freeCodeCamp's C++ tutorials url
+
+https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/
+https://www.youtube.com/watch?v=8jLOx1hD3_o
+C++ Programming Course - Beginner to Advanced
+Video of 31 hours is recorded in August 2021
+Author is Daniel Gakwaya from Africa
+
+It takes 4 weeks to complete the course and practice vscode at the same time.
+
+@Nangadaaku09 6 maanden geleden
+
+Chapter 1: Setting up the tools
+00:04:32 C++ Dev Tools
+00:11:06 Installing C++ Compilers On Windows
+00:24:27 Installing VS Code On Windows
+00:28:00 Configuring Visual Studio Code For C++ On Windows
+00:57:27 Installing C++ Compilers On Linux
+01:04:02 Installing Visual Studio Code On Linux
+01:07:40 Configuring Visual Studio Code For C++ On Linux
+01:22:45 Installing C++ Compilers On MacOS
+01:28:07 Installing Visual Studio Code On MacOS
+01:30:16 Configuring Visual Studio Code For C++ On MacOS
+01:35:37 Online Compilers
+
+Chapter 2: Diving In
+01:43:01 Your First C++ Program
+01:55:56 Comments
+02:01:56 Errors And Warnings
+02:13:12 Statements And Functions
+02:31:34 Input Output
+02:49:57 C++ Program Execution Model & Memory Model
+02:56:42 C++ Core Language VS Standard Library VS STL
+
+Chapter 3: Variables And Data Types
+03:00:47 Variables And Data Types Introduction
+03:05:05 Number Systems
+03:21:52 Integers
+03:40:44 Integer Modifiers
+03:54:00 Fractional Numbers
+04:16:39 Booleans
+04:24:49 Characters And Text
+04:32:05 Auto
+04:38:06 Assignments
+04:45:42 Variables And Data Types Summary
+
+Chapter 4: Operations on Data
+04:46:45 Operations On Data Introduction
+04:47:31 Basic Operations
+04:58:01 Precedence and Associativity
+05:12:06 Prefix And Postfix + & -
+05:23:22 Compound Operators
+05:31:43 Relational Operators: Comparing Stuff
+05:40:51 Logical Operators
+05:56:09 Output formatting
+06:33:26 Numeric Limits
+06:41:10 Math Functions
+06:54:23 Weird Integral Types
+06:59:41 Operations On Data Summary
+
+Chapter 5: Flow Control
+07:01:58 Flow Control: Conditional Programming Introduction
+07:03:30 If Statement
+07:20:49 Else If
+07:28:46 Switch
+07:42:44 Ternary Operator
+07:52:20 Flow Control: Conditional Programming Summary
+
+Chapter 6: Loops
+07:53:49 Loops Introduction
+07:55:20 For Loop
+08:25:20 While Loop
+08:36:54 Do While Loop
+
+Chapter 7: Arrays
+08:47:08 Arrays Introduction
+08:48:45 Declaring And Using Arrays
+09:15:53 Size Of An Array
+09:26:44 Arrays Of Characters
+09:46:46 Bounds Of An Array
+
+Chapter 8: Pointers
+09:53:23 Pointers Introduction
+09:56:03 Declaring And Using Pointers
+10:14:48 Pointer To Char
+10:27:26 Program Memory Map
+10:36:30 Dynamic Memory Allocation
+11:05:45 Dangling Pointers
+11:24:15 When New Fails
+11:38:00 Null Pointer Safety
+11:45:18 Memory Leaks
+11:55:44 Dynamic Arrays
+
+Chapter 9: References
+12:11:04 References Introduction
+12:11:58 Declaring And Using References
+12:22:28 Comparing References To Pointers
+12:37:25 References And Const
+
+Chapter 10: Character Manipulation And Strings
+12:44:29 Character Manipulation And Strings Introduction
+12:46:24 Character Manipulation
+13:09:28 C-String Manipulation
+13:41:42 C-String Concatenation And Copying
+14:01:19 Introducing std::string
+14:03:38 Declaring And Using std::string
+
+Chapter 11: Functions
+14:12:47 One Definition Rule
+14:28:25 First Hand On Functions
+15:00:50 Function Declaration & Definition
+15:15:30 Functions Across Multiple Files - Compilation Model Revisited
+15:42:30 Pass By Value
+15:50:30 Pass By Pointer
+15:57:46 Pass By Reference
+
+Chapter 12: Getting Things Out Of Functions
+16:03:20 Getting Things Out Of Functions Introduction
+16:03:58 Input And Output Parameters
+16:17:54 Returning From Functions
+
+Chapter 13: Function Overloading
+16:32:35 Function Overloading Introduction
+16:34:17 Overloading With Different Parameters
+
+Chapter 14: Lambda Functions
+16:49:00 Lambda Functions Introduction
+16:49:38 Declaring And Using Lambda Functions
+17:20:25 Capture Lists
+17:34:24 Capture All In Context
+
+Chapter 15: Function Templates
+17:40:08 Function Templates Introduction
+17:41:45 Trying Out Function Templates
+18:19:52 Template Type Deduction And Explicit Arguments
+18:35:47 Template Type Parameters By Reference
+18:48:55 Template Specialization
+
+Chapter 16: Concepts
+19:04:31 Concepts Introduction
+19:06:47 Concepts
+19:25:32 Concepts: Building Your Own
+19:42:45 Requires Clause: Zooming In
+19:59:53 Logical Combinations Of Concepts
+20:09:39 Concepts And Auto
+
+Chapter 17: Classes
+20:15:40 Classes Introduction
+20:16:33 Your First C++ Class
+20:38:03 Constructors
+20:53:35 Defaulted Constructors
+20:59:42 Setters And Getters
+21:10:06 Class Across Multiple Files
+21:30:49 Managing Class Objects Through Pointers
+21:42:48 Destructors
+22:05:44 Constructor & Destructor Call Order
+22:11:03 The This Pointer
+22:33:33 Struct
+22:42:37 Size Of Class Objects
+
+Chapter 18: Inheritance
+22:52:43 Inheritance Introduction
+22:55:59 Your First Try On Inheritance
+23:21:10 Protected Members
+23:32:06 Base Class Access Specifiers: Zooming In
+23:36:49 Base Class Access Specifiers: A Demo
+24:07:42 Closing In On Private Inheritance
+24:26:36 Resurrecting Members Back In Scope
+24:46:59 Default Arg Constructors With Inheritance
+24:57:37 Custom Constructors With Inheritance
+25:26:56 Copy Constructors With Inheritance
+25:51:53 Inheriting Base Constructors
+26:06:00 Inheritance With Destructors
+26:12:20 Reused Symbols In Inheritance
+
+Chapter 19: Polymorphism
+26:21:03 Polymorphism Introduction
+26:26:54 Static Binding With Inheritance
+26:55:24 Polymorphism (Dynamic Binding) With Virtual Functions
+27:14:31 Size Of Polymorphic Objects And Slicing
+27:26:37 Polymorphic Objects Stored In Collections
+27:45:42 Override
+27:52:45 Overloading, Overriding And Hiding
+28:07:35 Inheritance And Polymorphism At Different Levels
+28:33:03 Inheritance And Polymorphism With Static Members
+28:49:13 Final
+29:07:42 Virtual Functions With Default Arguments
+29:23:18 Virtual Destructors
+29:35:38 Dynamic_cast<>()
+30:08:17 Don't Call Virtual (Polymorphic) Functions From Constructors & Destructors
+30:24:45 Pure Virtual Functions And Abstract Classes
+30:43:37 Abstract Classes As Interfaces
+
+https://www.youtube.com/watch?v=8jLOx1hD3_o&t=600s (Start watching C++ course of 31 hours and 30 days hands on.)
+Almost same payed Udemy tutorial "The C++20 Masterclass : From Fundamentals to Advanced": (Sept-2021)
+- https://www.udemy.com/course/the-modern-cpp-20-masterclass/?couponCode=MT250908G1
+Corresponding source code on github:
+- cmnd> git clone https://github.com/rutura/The-C-20-Masterclass-Source-Code.git
+Downloaded as:
+- C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\The-C-20-Masterclass-Source-Code
+
+concepts crash course                                           = concepten spoed cursus
+vscode                                                          = ide and editor
+mingw                                                           = windows cpp compiler (default linux c++ compiler)
+msvc                                                            = windows cpp compiler (default microsoft c++ compiler)
+clang llvm                                                      = windows cpp compiler (default apple c++ compiler)
+gcc                                                             = GNU Compiler Collection
+yacc                                                            = Yet Another Compiler Compiler
+yasm                                                            = Yet Another Assembler for x86-32 and x86-64
+msvcrt                                                          = MicroSoft Visual C RunTime (for Microsoft Visual Studio C++)
+ucrt                                                            = Universal C RunTime (for Microsoft vscode)
+agent                                                           = tussenpersoon
+()                                                              = parenthesis (round brackets)
+{}                                                              = braces (curly brackets) (accolades)
+[]                                                              = square brackets
+<>                                                              = angle brackets
+ubuntu lts                                                      = ubuntu Long Term Support
+recap                                                           = samenvatten (recapituleren)
+''                                                              = single quotes (enkele aanhalingstekens)
+""                                                              = double quotes (dubbele aanhalingstekens)
+squiggles                                                       = kronkels
+squiggly lines go away                                          = kronkelige lijnen verdwijnen
+character traits                                                = karaktereigenschappen (kenmerken)
+if else if clause                                               = if else if voorwaarde
+so that we have some breathing room                             = zodat we wat ademruimte hebben (weergave ruimte)
+we want to go our merry way                                     = we willen verder gaan waar we mee bezig waren
+merry                                                           = vrolijk
+sounds like nonsense                                            = klinkt als onzin
+sounds like gibberish                                           = klinkt als onzin
+reference ptr cannot be reseated                                = reference ptr kan niet opnieuw worden geplaatst
+bogus data                                                      = nep data (buiten array index)
+cluttered                                                       = rommelig
+era                                                             = tijdperk
+prevent this plague                                             = voorkom deze plaag
+heap allocator may coalesce adjacent holes into a bigger one    = de heap allocator kan aangrenzende gaten samenvoegen tot een groter gat
+
+C++ invented by Danish Bjarne Stroustrup born in 1950:
+- C++ was made available in 1985.
+  The source code for the C++ compiler cost $ 75.
+  Stroustrup also published textbook "The C++ Programming Language" in 1985 (bol.com € 90).
+  Stroustrup also published textbook "The Design and Evolution of C++" in 1994 (bol.com € 60).
+  Now in 2025 the C++ language is 40 years old.
+  Some new functions are templates and lambda functions.
+
+Online compilers:
+- https://www.onlinegdb.com/online_c_compiler
+  good interactive scanf() support in bottom window
+  a choice in upper right window between C and C++ can be made
+- https://godbolt.org
+  Matt Godbolt compiler explorer shows generated assembly code
+  A lot of compilers can be selected for different processors
+
+C to assembly for PC or STM32 Cortex M4:
+- https://godbolt.org
+  - PC          (X86 Intel     Processor 64 bit) Middle window compiler = MINGW W64 GCC (UCRT), MinGW gcc 15.2.0
+  - STM32F303K8 (ARM Cortex M4 Processor 32 bit) Middle window compiler = ARM 32-BIT GCC      , ARM GCC 15.2.0
+--------------------
+STM32F303K8 (ARM Cortex M4 Processor 32 bit) Middle window compiler = ARM 32-BIT GCC      , ARM GCC 15.2.0
+STM32F303K8 has ARM 32 bit Cortex M4 CPU with FPU
+PM0214.pdf = Programming Manual STM32 Cortex M4
+--------------------
+#include <stdio.h>
+
+char message[] = "Hello World!";
+
+int main()
+{
+    // char message[] = "Hello World!";
+    int nr = 10;
+
+    printf("text: %s\n", message);
+
+    return 0;
+}
+
+Corresponding assembly for ARM Cortex M4:
+
+message:
+        .ascii  "Hello World!\000"
+.LC0:
+        .ascii  "text: %s\012\000"
+main:
+        push    {r7, lr}
+        sub     sp, sp, #8
+        add     r7, sp, #0
+        movs    r3, #10
+        str     r3, [r7, #4]
+        movw    r1, #:lower16:message
+        movt    r1, #:upper16:message
+        movw    r0, #:lower16:.LC0
+        movt    r0, #:upper16:.LC0
+        bl      printf
+        movs    r3, #0
+        mov     r0, r3
+        adds    r7, r7, #8
+        mov     sp, r7
+        pop     {r7, pc}
+--------------------
+#include <stdio.h>
+
+// char message[] = "Hello World!";
+
+int main()
+{
+    char message[] = "Hello World!";
+    int nr = 10;
+
+    printf("text: %s\n", message);
+
+    return 0;
+}
+
+Corresponding assembly for ARM Cortex M4:
+
+.LC1:
+        .ascii  "text: %s\012\000"
+.LC0:
+        .ascii  "Hello World!\000"
+main:
+        push    {r4, r7, lr}
+        sub     sp, sp, #28
+        add     r7, sp, #0
+        movw    r3, #:lower16:.LC0
+        movt    r3, #:upper16:.LC0
+        adds    r4, r7, #4
+        ldm     r3, {r0, r1, r2, r3}
+        stmia   r4!, {r0, r1, r2}
+        strb    r3, [r4]
+        movs    r3, #10
+        str     r3, [r7, #20]
+        adds    r3, r7, #4
+        mov     r1, r3
+        movw    r0, #:lower16:.LC1
+        movt    r0, #:upper16:.LC1
+        bl      printf
+        movs    r3, #0
+        mov     r0, r3
+        adds    r7, r7, #28
+        mov     sp, r7
+        pop     {r4, r7, pc}
+--------------------
+
+C keywords and operator precedence:
+- https://www.tutorialspoint.com/cprogramming/c_keywords.htm
+- https://www.tutorialspoint.com/cprogramming/c_operators_precedence.htm
+
+C++ keywords and operator precedence:
+- https://en.cppreference.com/w/cpp/keyword.html
+- https://en.cppreference.com/w/cpp/language/operator_precedence.html
+
+google: c++ compiler support
+https://en.cppreference.com/w/cpp/compiler_support.html
+
+google: visual studio code
+https://code.visualstudio.com/
+
+google: gcc
+https://gcc.gnu.org/
+
+google: winlibs
+https://winlibs.com/
+Note that winlibs says that only gcc and mingw should be downloaded
+via a zip archive and that msvc and clang llvm should not be downloaded.
+Note that winlibs says that ucrt with gcc and mingw should be downloaded.
+- UCRT runtime, GCC 15.2.0 (with POSIX threads) + MinGW-w64 13.0.0 (UCRT) Zip
+- winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1.zip
+
+Install mingw and g++ and gcc and gdb:
+- google: winlibs
+- https://winlibs.com/
+- UCRT runtime, GCC 15.2.0 (with POSIX threads) + MinGW-w64 13.0.0 (UCRT) Zip
+- winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1.zip
+- unzip winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1.zip
+- copy C:\Gerard\Bin\Mingw64\winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1\mingw64 to C:\mingw64
+- update environment variable system Path and add last new line C:\mingw64\bin
+- cmnd> C:\Gerard\Tmp>g++ --version
+  g++ (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r1) 15.2.0
+- cmnd> C:\Gerard\Tmp>gcc --version
+  gcc (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r1) 15.2.0
+- cmnd> C:\Gerard\Tmp>gdb --version
+  gdb (MinGW-W64 x86_64, built by Brecht Sanders, r1) 16.3
+- See C:\Gerard\Bin\Mingw64 folder mingw copied to C:\mingw64
+  C:\mingw64\bin\g++.exe
+  C:\mingw64\bin\gcc.exe
+  C:\mingw64\bin\gdb.exe
+
+Test g++:
+cmnd> g++ main_learn_cpp_0001.c
+cmnd> a.exe
+cmnd> Gerard Zennipman
+
+Install vscode:
+- https://www.youtube.com/watch?v=8jLOx1hD3_o&t=1400s
+- google: visual studio code
+- https://code.visualstudio.com/
+- click on download for windows
+- VSCodeUserSetup-x64-1.103.2.exe
+- DoubleClick VSCodeUserSetup-x64-1.103.2.exe
+- C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code
+- Turn on all 5 checkboxes
+  - Create a desktop icon
+  - Add "Open with Code" action to Windows Explorer file context menu
+  - Add "Open with Code" action to Windows Explorer directory context menu
+  - Register Code as an editor for supported file types
+  - Add to PATH (requires shell restart)
+
+Add g++ to vscode:
+- Start -> Visual Studio Code -> Extensions (left column 5th icon) -> click on C/C++ -> Install
+  -> Set up your C++ Environment Select my Default Compiler
+  -> Use g++.exe Found at C:/mingw64/bin
+  -> Create a C++ file in window at the rigth side
+  -> Upper left corner Save As C:\Gerard\Tmp\helloworld.cpp
+--------------------------------------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!" << std::endl;
+
+    return (0);
+}
+--------------------------------------------------------------------------------
+  -> Launch from the Developer Command Prompt in VS
+  -> Reload Window
+  -> Nothing happens so continue with next bullet
+  -> Run and debug your C++ file
+  -> Nothing happens so continue with next bullet
+  -> Customize debugging
+  -> Learn More
+  -> https://code.visualstudio.com/docs/cpp/config-msvc#_debug-helloworldcpp
+  -> Select another page in Chrome browser "GCC on Windows"
+  -> https://code.visualstudio.com/docs/cpp/config-mingw?originUrl=%2Fdocs%2Fcpp%2Fconfig-msvc
+  -> Mark Done
+  -> Upper right corner Close vscode
+
+Notes vscode with g++:
+- example compile and debug helloworld.cpp with g++ and gdb:
+  https://code.visualstudio.com/docs/cpp/config-mingw?originUrl=%2Fdocs%2Fcpp%2Fconfig-msvc
+- maybe also install C/C++ Extension Pack (not done at start of Video of 31 hours)
+  Start -> Visual Studio Code -> Extensions (left column 5th icon)
+  (not needed)
+
+Compile wiht g++ on commandline:
+cmnd> g++ main_learn_cpp_0001.c                 -> a.exe is  86 KB
+cmnd> g++ -g main_learn_cpp_0001.c              -> a.exe is 150 KB
+cmnd> g++ main_learn_cpp_0002.c                 -> a.exe
+cmnd> g++ main_learn_cpp_0003.c                 -> a.exe
+cmnd> g++ main_learn_cpp_0004.c                 -> a.exe
+cmnd> g++ main_learn_cpp_0005.c                 -> error
+cmnd> g++ -std=c++20 main_learn_cpp_0005.cpp    -> a.exe
+
+Use vscode with g++ and compile first cpp file with g++:
+- https://www.youtube.com/watch?v=8jLOx1hD3_o&t=1600s
+- GZ: GCC 15.2.0 does not comply with standard C++26
+  GZ: GCC 15.2.0 does not comply with standard C++23
+  GZ: GCC 15.2.0 complies with standard C++20
+- RMB C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects\ Open with Code
+- Do you trust the authors of the files in this folder?
+  - Turn on checkbox Trust the authors of all files in the parent folder 'FreeCodeCampCppVideoTutorial'
+  - Yes, I trust the authors
+- Upper left corner click in EXPLORER PROJECTS on + icon New File and enter main_learn_cpp_0005.cpp
+  Standard C++20 added the spaceship operator <=> which is (<, <=, >, >=, ==, !=) to simplify a comparison.
+--------------------------------------------------------------------------------
+// Standard C++20 added the spaceship operator <=> which is (<, <=, >, >=, ==, !=) to simplify a comparison.
+// g++ -std=c++20 main_learn_cpp_0005.cpp
+
+#include <iostream>
+
+int main(){
+    auto result = (10 <=> 20) > 0;
+    std::cout << result << std::endl;
+}
+--------------------------------------------------------------------------------
+- Upper line Terminal -> Configure Tasks -> C/C++:g++.exe build active file compiler: C:/mingw64/bin/g++.exe
+  C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects\.vscode\tasks.json is created
+--------------------------------------------------------------------------------
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:/mingw64/bin/g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "C:/mingw64/bin"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "compiler: C:/mingw64/bin/g++.exe"
+        }
+    ]
+}
+--------------------------------------------------------------------------------
+- google: GCC c++ 20
+  https://stackoverflow.com/questions/66975491/how-to-use-c-20-in-g
+  -std=c++20
+- Update C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects\.vscode\tasks.json
+--------------------------------------------------------------------------------
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:/mingw64/bin/g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "-std=c++20",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "compiler: C:/mingw64/bin/g++.exe"
+        }
+    ]
+}
+--------------------------------------------------------------------------------
+- Upper line Terminal -> New Terminal -> new bottom terminal window appears with Windows PowerShell
+  PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects>
+- In bottom terminal window type:
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> g++ --version
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> gcc --version
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> gdb --version
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> clear
+- Select left in vscode file main_learn_cpp_0005.cpp
+- Upper line Terminal -> Run Task -> C/C++:g++.exe build active file compiler: C:/mingw64/bin/g++.exe
+- In bottom terminal at right side click on small square with powershell (not small square C/C++) and type:
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> dir
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> .\main_learn_cpp_0005.exe
+    0
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> rm main_learn_cpp_0005.exe
+  - PS C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects> clear
+
+Add intellisense (autocomplete) json configuration file to folder C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects:
+- https://www.youtube.com/watch?v=8jLOx1hD3_o&t=3200s
+  vscode -> View -> Command Palette -> C/C++ -> C/C++: Edit Configurations (UI)
+  -> C++ standard change c++17 to c++20 (c++17 c++20 c++23 c++26)
+  -> C:\Gerard\Software\Cpp\FreeCodeCampCppVideoTutorial\Projects\.vscode\c_cpp_properties.json
+
+Check microsoft url that describes usage of g++ and gdb and try it:
+- example compile and debug helloworld.cpp with g++ and gdb:
+  - https://code.visualstudio.com/docs/cpp/config-mingw?originUrl=%2Fdocs%2Fcpp%2Fconfig-msvc
+  - create main_learn_cpp_0006.cpp and compile it and debug it
+--------------------------------------------------------------------------------
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+
+    for (const string& word : msg)
+    {
+        cout << word << " ";
+    }
+    cout << endl;
+    cout << msg[0] << endl;
+    cout << msg[1] << endl;
+    cout << msg[2] << endl;
+}
+--------------------------------------------------------------------------------
+- vscode -> Terminal -> Run Task... -> "C/C++: g++.exe build active file" "compiler: C:/mingw64/bin/g++.exe"
+  - main_learn_cpp_0006.exe is created
+- vscode -> 2nd line in the middle press triangle -> Debug C/C++ File -> "C/C++: g++.exe build active file" "compiler: C:/mingw64/bin/g++.exe" (1st time NOK)
+- vscode -> 2nd line in the middle press triangle -> Debug C/C++ File -> "C/C++: g++.exe build active file" "compiler: C:/mingw64/bin/g++.exe" (2nd time OK)
+- vscode -> set breakpoint on line 16 of main_learn_cpp_0006.cpp
+- vscode -> 2nd line in the middle press triangle -> Debug C/C++ File -> "C/C++: g++.exe build active file" "compiler: C:/mingw64/bin/g++.exe" (3rd) time OK)
+- vscode -> Step Over -> Step Over -> Step Over -> Continue
+
+Note make:
+- make without arguments uses Makefile and only makes first target all
+  target $@, prerequisites $^, recipe
+--------------------------------------------------------------------------------
+all:
+    echo "hello world"
+
+test:
+    echo "hello test"
+
+clean:
+    rm *.o
+--------------------------------------------------------------------------------
+
+Install g++ compiler and clang compiler on linux system:
+- https://www.youtube.com/watch?v=8jLOx1hD3_o&t=3400s
+- Note Ubuntu LongTermSupport:
+  - 24.04 LTS April 2024 to April 2029
+  - 22.04 LTS April 2022 to April 2027
+  - 20.04 LTS April 2020 to April 2025
+  - 18.04 LTS April 2018 to April 2023
+  - 16.04 LTS April 2016 to April 2021
+  - 14.04 LTS April 2014 to April 2019
+
+Use vscode to add launch.json to vscode to debug main_learn_cpp_0006.cpp (01):
+- vscode -> left sidebar 4th icon Run and Debug -> To customize Run and Debug create a launch.json file -> C++ (GDB/LLDB) -> {} C/C++ (gdb) Launch
+- vscode creates launch.json
+--------------------------------------------------------------------------------
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "/path/to/gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+
+
+    ]
+}
+--------------------------------------------------------------------------------
+- update launch.json
+--------------------------------------------------------------------------------
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
+--------------------------------------------------------------------------------
+
+Use vscode to build with Ctrl+Shift+B and start debugging with F5 (02):
+- vscode (compile) -> Terminal -> Run Build Task... (Ctrl+Shift+B)
+- vscode (debug) -> Run -> Start Debugging (F5)
+- vscode (comment) -> View -> Command Pallette -> Comment -> Toggle Line Comment Ctrl+/
+- vscode (comment) -> File -> Preferences -> Keyboard Shortcuts -> Comment -> Toggle Line Comment Ctrl+/
+
+Use vscode to open copied project (03):
+- copy folder to another folder somewhere on C:\
+- open folder with vscode
+- close welcome file
+- build with Ctrl+Shift+B
+- open new Terminal will open new PowerShell Terminal
+- PS> .\file.exe
+
+Use vscode to copy block (04):
+- Shift+Alt shows unwanted window Text Services and Input Languages
+  select To English (None)
+  OK
+  This window only appears once to auto select the type of keyboard
+  See vscode_0022.jpg and vscode_0023.jpg
+- mouse select source begin x,y
+  Shift+Alt
+  mouse select source end x,y
+  Ctrl+C
+  mouse select source begin x,y
+  Shift+Alt
+  mouse select source end x,y (same y)
+  Ctrl+V
+
+Use vscode to show tabsize (2 ways) (05):
+- left bottom gear
+  settings
+  search tabsize
+  tabsize 4
+  detect indentation on
+- rigth bottom spaces 4 indent using spaces 4
+
+Use vscode to add a tab (06):
+- a tab can not be created inside a vscode file.cpp or file.txt
+- copy tab from notes.txt made with notepad and paste it in file.cpp or file.txt
+
+Use vscode to convert all tab indents to spaces (07):
+- right bottom spaces 4 convert indentation to spaces
+
+Use vscode to trim trailing whitespace (08):
+- right bottom spaces 4 trim trailing whitespace
+
+Use vscode to transform selected text to uppercase or lowercase (09):
+- Select text -> Ctrl+Shift+P (Command Pallette) -> type upper -> select transform to uppercase
+- Select text -> Ctrl+Shift+P (Command Pallette) -> type lower -> select transform to lowercase
+
+Use vscode to find and replace text (10):
+- Ctrl_F -> specify find text -> click left in find popup box
+  -> 2nd line replace appears -> specify replace text
+  -> go through file with ArrUp and ArrDown and perform find and replace actions
+
+Use vscode to toggle view primary sidebar and view secondary side bar (11):
+- toggle view primary sidebar = Ctrl+B
+- toggle view secondary sidebar = Ctrl+Alt+B
+
+Use vscode to zoom in or out (12):
+- Ctrl+Shift+P (Command Palette) -> type zoom
+  - zoom in = Ctrl+-
+  - zoom in = Ctrl+=
+  - zoom reset = Ctrl+NumPad0
+
+Note c++ (01):
+- std::boolalpha, std::noboolalpha
+  print a bool var as 1 or 0 or as true or false
+  This is an I/O manipulator from the C++ Standard Template Library (STL).
+  When inserted into an output stream like std::cout, it sets or clears the boolalpha flag.
+--------------------------------------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    std::cout << std::boolalpha; // Enable the boolalpha flag
+    bool myBool = true;
+    std::cout << myBool << std::endl; // Outputs: true
+
+    bool anotherBool = false;
+    std::cout << anotherBool << std::endl; // Outputs: false
+
+    return (0);
+}
+--------------------------------------------------------------------------------
+
+Note c++ (02):
+- a lambda function is a small anonymous function inside the code without declaring it first
+  mini_function_on_the_fly [capture] (parameters) { code }
+  use it once or a few times
+  use it for simple short code
+--------------------------------------------------------------------------------
+// message() is a lambda function
+
+int main()
+{
+    auto message = []() {cout << "Hello World!\n";};
+
+    message();
+
+    return (0);
+}
+--------------------------------------------------------------------------------
+
+Note c++ (03):
+- c++ tutorial that also contains standard template library
+  https://www.geeksforgeeks.org/cpp/c-plus-plus/
+  https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/
+  https://www.geeksforgeeks.org/cpp/containers-cpp-stl/
+  https://www.geeksforgeeks.org/cpp/iterators-c-stl/
+  https://www.geeksforgeeks.org/cpp/c-magicians-stl-algorithms/
+  The STL contains a lot of functions to manipulate data sets, like sort functions.
+
+Note c++ (04):
+- what is proper C++, int first_number = 12; or int first_number {12};
+  Copy Initialization (C++98 and later) = old
+  Brace Initialization (C++11 and later) = new and preferred
+  So use, int first_number {12};
+
+Note c++ (05):
+- streams in C++
+  std::cout     Printing data to the console (terminal)
+  std::cin      Reading data from the console (terminal)
+  std::cerr     Printing errors to the console (terminal)
+  std::clog     Printing log messages to the console (terminal)
+- All 3 messages are printed on the vscode bottom terminal
+  std::cout << "Hello World!" << std::endl;
+  std::cerr << "Something went wrong." << std::endl;
+  std::clog << "This is a log message." << std::endl;
+- I do not exactly know how many input and output streams ther are
+  #include <iostream>
+  std::cout
+  std::ostream
+
+Note c++ (06):
+- Core Features, Standard Library, Standard Template Library (STL)
+  Core Features                     = C++ types and rules
+  Standard Library                  = C++ functions via include files
+  Standard Template Library (STL)   = C++ additional functions added to the Standard Library
+
+Note c++ (07):
+- types
+  int       = -1 0 1
+  double    = 1.234567812345678
+  float     = 1.2345678
+  char      = 'a' '0'
+  bool      = true false
+  void      = no type
+  auto      = deduces type
+
+Note c++ (08):
+- types for numbers
+  float     = x.x
+  double    = x, x.x, x.xex, x.xe-x
+  float  number1 {1.12345678901234567890}; // precision 1.7 in 4 bytes (4*2=1+7)
+  double number2 {1.12345678901234567890}; // precision 1.15 in 8 bytes (8*2=1+15)
+  double number3 {192400023};
+  double number4 {1.92400023e8};
+  double number5 {1.924e8};
+  double number6 {0.00000000003498};
+  double number7 {3.498e-11};
+
+Note c++ (09):
+- auto type deduction
+  auto var1 {'e'};        // char   1 byte
+  auto var2 {12};         // int    4 bytes
+  auto var3 {1.3f};       // float  4 bytes
+  auto var4 {1.3};        // double 8 bytes
+  auto var5 {1.234e6};    // double 8 bytes
+
+Note c++ (10):
+- io manipulators
+- https://documents.uow.edu.au/~lukes/textbook/notes-cpp/io/omanipulators.html
+  #include <iostream>   (needed)
+  #include <iomanip>    (only needed for io manipulator with parameter)
+  std::endl             (no parameter, #include <iomanip> not needed)
+  std::setprecision(20) (   parameter, #include <iomanip>     needed)
+  std::boolalpha        (no parameter, #include <iomanip> not needed)
+  std::noboolalpha      (no parameter, #include <iomanip> not needed)
+- https://stackoverflow.com/questions/479373/c-cout-hex-values
+  int a {255};
+  std::cout << std::uppercase << std::hex << a << std:endl; // FF
+- https://en.cppreference.com/w/cpp/io/manip.html
+--------------------
+std::endl
+--------------------
+std::boolalpha
+--------------------
+std::setw()
+std::left
+std::right
+std::setfill()
+--------------------
+std::dec
+std::internal
+std::showpos
+std::showpoint
+--------------------
+std::hex
+std::showbase
+std::uppercase
+--------------------
+std::fixed
+std::setprecision()
+std::scientific
+--------------------
+--------------------------------------------------------------------------------
+int main()
+{
+    double a {3.141592654};
+    double b {2006};
+    double c {1.34e-1};
+    double d {1.34e-10};
+
+    std::cout << "a: " << a << std::endl; // a: 3.14159
+    std::cout << "b: " << b << std::endl; // b: 2006
+    std::cout << "c: " << c << std::endl; // c: 0.134
+    std::cout << "d: " << d << std::endl; // d: 1.34e-10
+
+    std::cout << std::fixed;
+
+    std::cout << "a: " << std::setw(11) << a << std::endl; // a:    3.141593
+    std::cout << "b: " << std::setw(11) << b << std::endl; // b: 2006.000000
+    std::cout << "c: " << std::setw(11) << c << std::endl; // c:    0.134000
+    std::cout << "d: " << std::setw(11) << d << std::endl; // d:    0.000000
+
+    std::cout << std::scientific;
+
+    std::cout << "a: " << a << std::endl; // a: 3.141593e+00
+    std::cout << "b: " << b << std::endl; // b: 2.006000e+03
+    std::cout << "c: " << c << std::endl; // c: 1.340000e-01
+    std::cout << "d: " << d << std::endl; // d: 1.340000e-10
+
+    return 0;
+}
+--------------------------------------------------------------------------------
+
+Note c++ (11):
+- logical operators and bitwise operators
+  a && b    (logical operator, and         )
+  a || b    (logical operator, or          )
+  !a        (logical operator, not         )
+  a & b     (bitwise operator, and         )
+  a | b     (bitwise operator, or          )
+  a ^ b     (bitwise operator, exclusive or)
+  ~a        (bitwise operator, not         )
+
+The C:\mingw64\bin\gcc.exe and C:\mingw64\bin\g++.exe both compile scanf() ok:
+- C:\Gerard\Software\Cygwin\TestGcc\main_0006.c
+--------------------------------------------------------------------------------
+#include <stdio.h>
+
+int main(void)
+{
+    char str1[80];
+    char str2[80];
+
+    printf("\nEnter FirstName LastName: ");
+    scanf("%s %s", str1, str2);
+    printf("FirstName LastName: %s %s\r\n", str1, str2);
+
+    return (0);
+}
+--------------------------------------------------------------------------------
+
+Note c++ (12):
+- use class template numeric_limits defined in <limits>
+  Give me the specialization of class numeric_limits for type unsigned short
+  The specialization of class numeric_limits is indicated with angle brackets <>
+  The specialization of class numeric_limits is not indicated with parenthesis ()
+  #include <limits>
+  std::numeric_limits<unsigned short>::min() // 0
+  std::numeric_limits<unsigned short>::max() // 65535
+  std::numeric_limits<int>::is_signed // true
+  std::numeric_limits<unsigned int>::is_signed // false
+  std::numeric_limits<int>::digits // 31 bits without sign bit
+  std::numeric_limits<unsigned int>::digits // 32 bits without sign bit
+
+Note c++ (13):
+- C++ preferences
+  https://en.cppreference.com/w/cpp/compiler_support.html
+  https://en.cppreference.com/w/cpp/keyword.html
+  https://en.cppreference.com/w/cpp/language/operator_precedence.html
+  https://en.cppreference.com/w/cpp/io/manip.html
+  https://en.cppreference.com/w/cpp/types/numeric_limits.html
+  https://en.cppreference.com/w/cpp/header/cmath.html
+
+Note c++ (14):
+- C++ math library
+- https://en.cppreference.com/w/cpp/header/cmath.html
+- #include <cmath>
+--------------------
+std::floor()
+std::ceil()
+std::round()
+--------------------
+std::abs()
+--------------------
+std::exp()
+std::log()
+--------------------
+std::log2()
+std::log10()
+--------------------
+std::pow()
+--------------------
+std::sqrt()
+--------------------
+std::sin()
+std::cos()
+std::tan()
+--------------------
+
+Note c++ (15):
+- include files
+  #include <iostream>
+  #include <vector>
+  #include <string>
+  #include <iomanip>
+  #include <limits>
+  #include <cstdint>
+  #include <cmath>
+
+Note c++ (16):
+- C++ Naming Conventions
+  https://cppmastery.hashnode.dev/c-naming-conventions
+  C++ naming conventions for namespaces, classes, interfaces, methods, variables,
+  and constants ensure readable and maintainable code
+  - const int INITIAL_SIZE = 16;
+
+Note c++ (17):
+- size_t
+--------------------
+on a 32-bit system size_t is a 4 bytes unsigned integer
+on a 64-bit system size_t is a 8 bytes unsigned integer
+--------------------
+on a 32-bit system usigned int is a 4 bytes unsigned integer
+on a 32-bit system unsigned long long is a 8 bytes unsigned integer
+--------------------
+on a 64-bit system usigned int is a 4 bytes unsigned integer
+on a 64-bit system unsigned long long is a 8 bytes unsigned integer
+--------------------
+
+Note c++ (18):
+- range based for loop and reference
+--------------------
+#include <iostream>
+#include <vector>
+
+int main()
+{
+    std::vector<int> numbers = {1, 2, 3, 4, 5};
+
+    // range based for loop
+    for (int n : numbers)
+    {
+        std::cout << n << " "; // 1 2 3 4 5
+    }
+    std::cout << std::endl;
+
+    return 0;
+}
+--------------------
+#include <iostream>
+#include <vector>
+
+int main()
+{
+    std::vector<int> numbers = {1, 2, 3};
+
+    // 1st range based for loop
+    //
+    // Note that n is a reference in C++, it looks like a pointer but the compiler inserts a dereference under the hood.
+    // When you say n *= 2, the compiler translates this to *n *= 2 before it compiles the source code.
+    // So a reference in C++ looks like a pointer in C but is not the same,
+    // under the hood a pointer line is added and this pointer itself cannot be changed (cannot be reseated).
+    for (int& n : numbers)
+    {
+        n *= 2; // double each element
+    }
+
+    // 2nd range based for loop
+    for (int n : numbers)
+    {
+        std::cout << n << " "; // 2 4 6
+    }
+    std::cout << std::endl;
+
+    return 0;
+}
+--------------------
+#include <iostream>
+
+int main()
+{
+    int arr[] = {10, 20, 30, 40};
+
+    // range based for loop
+    for (int value : arr)
+    {
+        std::cout << value << " "; // 10 20 30 40
+    }
+    std::cout << std::endl;
+
+    return 0;
+}
+--------------------
+
+Note c++ (19):
+- memory map
+  System
+  Stack (local variables, function calls), STM32F303K8 with 64 KB RAM 0x2000FFFF -> 0x2000E000, small area 08 KB, stack grows downward
+  Heap (dynamic memory)                  , STM32F303K8 with 64 KB RAM 0x20002000 -> 0x2000E000, large area 48 KB, heap grows upward malloc() new()
+  Data                                   , STM32F303K8 with 64 KB RAM 0x20000000 -> 0x20002000, small area 08 KB, .data and .bss for global and static variables
+  Text
+
+Note c++ (20):
+- c++ with classes looks like c for reliable 1 msec loop on Cortex M4 running for 1 year
+  no reference
+  no new
+  no delete
+  no exceptions
+  no operator overloading
+  no class constructor
+  no class destructor
+  no class inheritance
+--------------------
+c gpio.h
+
+// gpio.h
+#ifndef GPIO_H
+#define GPIO_H
+
+#include <stdint.h>
+
+typedef struct {
+    volatile uint32_t* port;
+    uint32_t mask;
+} Gpio;
+
+// initialize the "object"
+static inline void Gpio_init(Gpio* gpio, volatile uint32_t* port, uint32_t pin) {
+    gpio->port = port;
+    gpio->mask = (1U << pin);
+}
+
+static inline void Gpio_set(Gpio* gpio) {
+    *(gpio->port) |= gpio->mask;
+}
+
+static inline void Gpio_clear(Gpio* gpio) {
+    *(gpio->port) &= ~gpio->mask;
+}
+
+static inline void Gpio_toggle(Gpio* gpio) {
+    *(gpio->port) ^= gpio->mask;
+}
+
+#endif
+
+c main.c
+
+#include "gpio.h"
+
+#define PORTA ((volatile uint32_t*)0x40020000)
+
+int main(void) {
+    Gpio led;
+    Gpio_init(&led, PORTA, 5);
+
+    while (1) {
+        Gpio_toggle(&led);
+        // wait...
+    }
+}
+--------------------
+c++ gpio.hpp
+
+// gpio.hpp
+#pragma once
+#include <cstdint>
+
+class Gpio {
+    volatile uint32_t* port;
+    uint32_t mask;
+
+public:
+    // explicit init function (instead of constructor)
+    void init(volatile uint32_t* port, uint32_t pin) {
+        this->port = port;
+        this->mask = (1U << pin);
+    }
+
+    void set()   { *port |= mask; }
+    void clear() { *port &= ~mask; }
+    void toggle(){ *port ^= mask; }
+};
+
+c++ main.cpp
+
+#include "gpio.hpp"
+
+#define PORTA ((volatile uint32_t*)0x40020000)
+
+int main() {
+    Gpio led;
+    led.init(PORTA, 5);
+
+    while (1) {
+        led.toggle();
+        // wait...
+    }
+}
+--------------------
+
+----main_learn_cpp_0001.cpp-----------------------------------------------------
+// file: main_learn_cpp_0001.cpp
+//
+// video freecodecamp winlibs compiler:
+// C:\mingw64\bin\g++.exe
+//
+// compiler online:
+// https://www.tutorialspoint.com/c_standard_library/index.htm
+// https://www.onlinegdb.com/online_c_compiler (scanf ok, choose C)
+// https://www.onlinegdb.com/online_c_compiler (scanf ok, choose C++)
+// https://man7.org/linux/man-pages/dir_all_alphabetic.html
+//
+// include files:
+// #include <stdio.h>            -> printf() scanf() fgets()
+// #include <string.h>           -> strcpy() strcat() strcmp() strtok() strstr() strlen() memcpy() memset() strerror(errno)
+// #include <stdbool.h>          -> true false
+// #include <stddef.h>           -> NULL
+// #include <limits.h>           -> INT_MIN INT_MAX
+// #include <stdint.h>           -> int8_t uint8_t int16_t uint16_t int32_t uint32_t int64_t unint64_t intptr_t
+// #include <stdlib.h>           -> malloc() calloc() free() system() atoi() atof()
+// #include <assert.h>           -> assert()
+// #include <unistd.h>           -> close() sleep() usleep() getpagesize() ualarm() pause() getpid()
+// #include <fcntl.h>            -> open() fcntl()
+// #include <sys/ioctl.h>        -> linux ioctl() set_spi_mode write_spi_message set_mbox_property
+// #include <linux/spi/spidev.h> -> linux struct spi_ioc_transfer used in ioctl() write spi message
+// #include <sys/mman.h>         -> mmap() munmap()
+// #include <errno.h>            -> errno
+// #include <pigpio.h>           -> gpioInitialise() gpioSetMode() gpioWrite() gpioTerminate()
+// #include <gpiod.h>            -> struct gpiod_chip struct gpiod_line gpiod_chip_open_by_name() gpiod_chip_get_line() gpiod_line_request_output() gpiod_line_set_value() gpiod_line_release() gpiod_chip_close()
+// #include <signal.h>           -> signal()
+//
+// define typedef:
+// #define true               (1)
+// #define false              (0)
+// #define NULL               (void*)(0)
+// typedef signed char        int8_t;
+// typedef unsigned char      uint8_t;
+// typedef signed short       int16_t;
+// typedef unsigned short     uint16_t;
+// typedef signed long        int32_t;
+// typedef unsigned long      uint32_t;
+// typedef signed long long   int64_t;
+// typedef unsigned long long uint64_t;
+//
+// gcc options:
+// $ gcc --help
+// Usage: gcc [options] file...
+// Options:
+//   -E                       Preprocess only; do not compile, assemble or link.
+//   -S                       Compile only; do not assemble or link.
+//   -c                       Compile and assemble, but do not link.
+//   -o <file>                Place the output into <file>.
+//
+// this file:
+// print "Gerard Zennipman"
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string str;
+
+    str = "Gerard Zennipman";
+    cout << str << endl;
+
+    return (0);
+}
+
+// Gerard Zennipman
+----main_learn_cpp_0002.cpp-----------------------------------------------------
+// file: main_learn_cpp_0002.cpp
+//
+// video freecodecamp winlibs compiler:
+// C:\mingw64\bin\g++.exe
+//
+// compiler online:
+// https://www.tutorialspoint.com/c_standard_library/index.htm
+// https://www.onlinegdb.com/online_c_compiler (scanf ok, choose C)
+// https://www.onlinegdb.com/online_c_compiler (scanf ok, choose C++)
+// https://man7.org/linux/man-pages/dir_all_alphabetic.html
+//
+// include files:
+// #include <stdio.h>            -> printf() scanf() fgets()
+// #include <string.h>           -> strcpy() strcat() strcmp() strtok() strstr() strlen() memcpy() memset() strerror(errno)
+// #include <stdbool.h>          -> true false
+// #include <stddef.h>           -> NULL
+// #include <limits.h>           -> INT_MIN INT_MAX
+// #include <stdint.h>           -> int8_t uint8_t int16_t uint16_t int32_t uint32_t int64_t unint64_t intptr_t
+// #include <stdlib.h>           -> malloc() calloc() free() system() atoi() atof()
+// #include <assert.h>           -> assert()
+// #include <unistd.h>           -> close() sleep() usleep() getpagesize() ualarm() pause() getpid()
+// #include <fcntl.h>            -> open() fcntl()
+// #include <sys/ioctl.h>        -> linux ioctl() set_spi_mode write_spi_message set_mbox_property
+// #include <linux/spi/spidev.h> -> linux struct spi_ioc_transfer used in ioctl() write spi message
+// #include <sys/mman.h>         -> mmap() munmap()
+// #include <errno.h>            -> errno
+// #include <pigpio.h>           -> gpioInitialise() gpioSetMode() gpioWrite() gpioTerminate()
+// #include <gpiod.h>            -> struct gpiod_chip struct gpiod_line gpiod_chip_open_by_name() gpiod_chip_get_line() gpiod_line_request_output() gpiod_line_set_value() gpiod_line_release() gpiod_chip_close()
+// #include <signal.h>           -> signal()
+//
+// define typedef:
+// #define true               (1)
+// #define false              (0)
+// #define NULL               (void*)(0)
+// typedef signed char        int8_t;
+// typedef unsigned char      uint8_t;
+// typedef signed short       int16_t;
+// typedef unsigned short     uint16_t;
+// typedef signed long        int32_t;
+// typedef unsigned long      uint32_t;
+// typedef signed long long   int64_t;
+// typedef unsigned long long uint64_t;
+//
+// gcc options:
+// $ gcc --help
+// Usage: gcc [options] file...
+// Options:
+//   -E                       Preprocess only; do not compile, assemble or link.
+//   -S                       Compile only; do not assemble or link.
+//   -c                       Compile and assemble, but do not link.
+//   -o <file>                Place the output into <file>.
+//
+// this file:
+// floating point 32 bit IEEE 754 accuracy is 8 digits (1.7)
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string  str;
+    float   f1  = 1.0000001;
+    float   f2  = 10.000001;
+    float   f3  = 100.00001;
+    float   f4  = 1000.0001;
+    float   f5  = 10000.001;
+    float   f6  = 100000.01;
+    float   f7  = 1000000.1;
+    float   f8  = 0.0000000;
+    float   f9  = 0.0000000;
+
+    str = "Gerard Zennipman";
+    cout << str << endl;
+
+    printf("Gerard Zennipman\n");
+
+    printf("f1: %15.7f\n", f1);
+    printf("f2: %15.7f\n", f2);
+    printf("f3: %15.7f\n", f3);
+    printf("f4: %15.7f\n", f4);
+    printf("f5: %15.7f\n", f5);
+    printf("f6: %15.7f\n", f6);
+    printf("f7: %15.7f\n", f7);
+    printf("f8: %15.7f\n", f8);
+    printf("f9: %15.7f\n", f9);
+
+    f8 = 0.0000001;
+    f9 = f1 + f8;
+    printf("f9: %15.7f\n", f9);
+
+    return (0);
+}
+
+// Gerard Zennipman
+// Gerard Zennipman
+// f1:       1.0000001
+// f2:      10.0000010
+// f3:     100.0000076
+// f4:    1000.0001221
+// f5:   10000.0009766
+// f6:  100000.0078125
+// f7: 1000000.1250000
+// f8:       0.0000000
+// f9:       0.0000000
+// f9:       1.0000002
+----main_learn_cpp_0003.cpp-----------------------------------------------------
+// file: main_learn_cpp_0003.cpp
+//
+// video freecodecamp winlibs compiler:
+// C:\mingw64\bin\g++.exe
+//
+// compiler online:
+// https://www.tutorialspoint.com/c_standard_library/index.htm
+// https://www.onlinegdb.com/online_c_compiler (scanf ok, choose C)
+// https://www.onlinegdb.com/online_c_compiler (scanf ok, choose C++)
+// https://man7.org/linux/man-pages/dir_all_alphabetic.html
+//
+// include files:
+// #include <stdio.h>            -> printf() scanf() fgets()
+// #include <string.h>           -> strcpy() strcat() strcmp() strtok() strstr() strlen() memcpy() memset() strerror(errno)
+// #include <stdbool.h>          -> true false
+// #include <stddef.h>           -> NULL
+// #include <limits.h>           -> INT_MIN INT_MAX
+// #include <stdint.h>           -> int8_t uint8_t int16_t uint16_t int32_t uint32_t int64_t unint64_t intptr_t
+// #include <stdlib.h>           -> malloc() calloc() free() system() atoi() atof()
+// #include <assert.h>           -> assert()
+// #include <unistd.h>           -> close() sleep() usleep() getpagesize() ualarm() pause() getpid()
+// #include <fcntl.h>            -> open() fcntl()
+// #include <sys/ioctl.h>        -> linux ioctl() set_spi_mode write_spi_message set_mbox_property
+// #include <linux/spi/spidev.h> -> linux struct spi_ioc_transfer used in ioctl() write spi message
+// #include <sys/mman.h>         -> mmap() munmap()
+// #include <errno.h>            -> errno
+// #include <pigpio.h>           -> gpioInitialise() gpioSetMode() gpioWrite() gpioTerminate()
+// #include <gpiod.h>            -> struct gpiod_chip struct gpiod_line gpiod_chip_open_by_name() gpiod_chip_get_line() gpiod_line_request_output() gpiod_line_set_value() gpiod_line_release() gpiod_chip_close()
+// #include <signal.h>           -> signal()
+//
+// define typedef:
+// #define true               (1)
+// #define false              (0)
+// #define NULL               (void*)(0)
+// typedef signed char        int8_t;
+// typedef unsigned char      uint8_t;
+// typedef signed short       int16_t;
+// typedef unsigned short     uint16_t;
+// typedef signed long        int32_t;
+// typedef unsigned long      uint32_t;
+// typedef signed long long   int64_t;
+// typedef unsigned long long uint64_t;
+//
+// gcc options:
+// $ gcc --help
+// Usage: gcc [options] file...
+// Options:
+//   -E                       Preprocess only; do not compile, assemble or link.
+//   -S                       Compile only; do not assemble or link.
+//   -c                       Compile and assemble, but do not link.
+//   -o <file>                Place the output into <file>.
+//
+// this file:
+// union uint8_t uint16_t uint32_t
+
+#include <iostream>
+#include <cstdint>
+
+using namespace std;
+
+typedef union
+{
+    uint8_t     a;
+    uint8_t     b;
+    uint16_t    c;
+    uint32_t    d;
+} motor_union;
+
+int main()
+{
+    string      str;
+    float       f1  = 1.0000001;
+    float       f2  = 10.000001;
+    float       f3  = 100.00001;
+    float       f4  = 1000.0001;
+    float       f5  = 10000.001;
+    float       f6  = 100000.01;
+    float       f7  = 1000000.1;
+    float       f8  = 0.0000000;
+    float       f9  = 0.0000000;
+    motor_union motor;
+
+    str = "Gerard Zennipman";
+    cout << str << endl;
+
+    printf("Gerard Zennipman\n");
+
+    printf("f1: %15.7f\n", f1);
+    printf("f2: %15.7f\n", f2);
+    printf("f3: %15.7f\n", f3);
+    printf("f4: %15.7f\n", f4);
+    printf("f5: %15.7f\n", f5);
+    printf("f6: %15.7f\n", f6);
+    printf("f7: %15.7f\n", f7);
+    printf("f8: %15.7f\n", f8);
+    printf("f9: %15.7f\n", f9);
+
+    f8 = 0.0000001;
+    f9 = f1 + f8;
+    printf("f9: %15.7f\n", f9);
+
+    printf("sizeof(motor): %d\n", sizeof(motor));
+    printf("sizeof(motor.a): %d\n", sizeof(motor.a));
+    printf("sizeof(motor.b): %d\n", sizeof(motor.b));
+    printf("sizeof(motor.c): %d\n", sizeof(motor.c));
+    printf("sizeof(motor.d): %d\n", sizeof(motor.d));
+
+    // cout treats uint8_t as a char, cast it to uint32_t to print it as a nr
+    motor.a = 100;
+    cout << static_cast<uint32_t>(motor.a) << endl;
+
+    // cout treats uint8_t as a char, cast it to uint32_t to print it as a nr
+    motor.b = 200;
+    cout << static_cast<uint32_t>(motor.b) << endl;
+
+    motor.c = 300;
+    cout << motor.c << endl;
+
+    motor.d = 400;
+    cout << motor.d << endl;
+
+    // check union behavior
+    motor.a = 0x01;
+    printf("motor.a: 0x%02X\n", motor.a);
+    motor.d = 0x11223344;
+    printf("motor.a: 0x%02X\n", motor.a);
+
+    return (0);
+}
+
+// Gerard Zennipman
+// Gerard Zennipman
+// f1:       1.0000001
+// f2:      10.0000010
+// f3:     100.0000076
+// f4:    1000.0001221
+// f5:   10000.0009766
+// f6:  100000.0078125
+// f7: 1000000.1250000
+// f8:       0.0000000
+// f9:       0.0000000
+// f9:       1.0000002
+// sizeof(motor): 4
+// sizeof(motor.a): 1
+// sizeof(motor.b): 1
+// sizeof(motor.c): 2
+// sizeof(motor.d): 4
+// 100
+// 200
+// 300
+// 400
+// motor.a: 0x01
+// motor.a: 0x44
+----main_learn_cpp_0004.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!" << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0005.cpp-----------------------------------------------------
+// Standard C++20 added the spaceship operator <=> which is (<, <=, >, >=, ==, !=) to simplify a comparison.
+// g++ -std=c++20 main_learn_cpp_0005.cpp
+
+#include <iostream>
+
+int main(){
+    auto result = (10 <=> 20) > 0;
+    std::cout << result << std::endl;
+}
+----main_learn_cpp_0006.cpp-----------------------------------------------------
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+
+    for (const string& word : msg)
+    {
+        cout << word << " ";
+    }
+    cout << endl;
+    cout << msg[0] << endl;
+    cout << msg[1] << endl;
+    cout << msg[2] << endl;
+}
+----main_learn_cpp_0007.cpp-----------------------------------------------------
+#include <iostream>
+
+consteval int get_value(){
+    return 3;
+}
+
+int main(){
+    constexpr int value = get_value();
+    std::cout << "value : " << value << std::endl;
+    return 0;
+}
+----main_learn_cpp_0008.cpp-----------------------------------------------------
+#include <iostream>
+
+int main(){
+    std::cout << "Hello World!" << std::endl;
+    return 0;
+}
+----main_learn_cpp_0009.cpp-----------------------------------------------------
+#include <iostream>
+
+int main(){
+    std::cout << "Number1" << std::endl;
+    std::cout << "Number2";
+    return 0;
+}
+----main_learn_cpp_0010.cpp-----------------------------------------------------
+// This brings in the iostream library
+#include <iostream>
+
+int main(){
+    std::cout << "Hello World!" << std::endl;
+    return 0;
+}
+----main_learn_cpp_0011.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int value;
+
+    // Compiletime error without ;
+    std::cout << "Hello World!" << std::endl;
+
+    // Warning division by zero
+    // Runtime error division by zero (although i see no crash)
+    value = 7 / 0;
+    std::cout << "value: " << value << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0012.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int firstNumber = 12;
+    int secondNumber = 9;
+
+    int sum = firstNumber + secondNumber;
+
+    std::cout << "The sum of the two numbers is: " << sum << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0013.cpp-----------------------------------------------------
+#include <iostream>
+
+int AddNumbers(int firstNumber, int secondNumber)
+{
+    int sum = firstNumber + secondNumber;
+    return sum;
+}
+
+int main()
+{
+    int nr1 = 12;
+    int nr2 = 9;
+
+    int nr3 = AddNumbers(nr1, nr2);
+
+    std::cout << "The sum of the two numbers is: " << nr3 << std::endl;
+    std::cout << "The sum of the two numbers is: " << AddNumbers(23, 8) << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0014.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int firstNumber {3};
+    int secondNumber {7};
+
+    std::cout << "First number: " << firstNumber << std::endl;
+    std::cout << "Second number: " << secondNumber << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0015.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int firstNumber {13};
+    int secondNumber {7};
+
+    std::cout << "First number: " << firstNumber << std::endl;
+    std::cout << "Second number: " << secondNumber << std::endl;
+
+    int sum = firstNumber + secondNumber;
+    std::cout << "Sum: " << sum << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0016.cpp-----------------------------------------------------
+#include <iostream>
+
+int AddNumbers(int first_param, int second_param)
+{
+    int result = first_param + second_param;
+    return result;
+}
+
+int MulNumbers(int first_param, int second_param)
+{
+    int result = first_param * second_param;
+    return result;
+}
+
+int main()
+{
+    int firstNumber {13};
+    int secondNumber {7};
+
+    std::cout << "First number: " << firstNumber << std::endl; // 13
+    std::cout << "Second number: " << secondNumber << std::endl; // 7
+
+    int sum = firstNumber + secondNumber;
+    std::cout << "Sum: " << sum << std::endl; // 20
+
+    sum = AddNumbers(25, 7);
+    std::cout << "Sum: " << sum << std::endl; // 32
+
+    sum = AddNumbers(30, 54);
+    std::cout << "Sum: " << sum << std::endl; // 84
+
+    std::cout << "Sum: " << AddNumbers(3, 42) << std::endl; // 45
+
+    std::cout << "Product: " << MulNumbers(8, 9) << std::endl; // 72
+
+    return 0;
+}
+----main_learn_cpp_0017.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!" << std::endl;
+    std::cout << "The number is: " << 12 << std::endl;
+
+    int age {21};
+    std::cout << "The age is: " << age << std::endl;
+
+    // Error
+    std::cerr << "Something went wrong." << std::endl;
+
+    // Log message
+    std::clog << "This is a log message." << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0018.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int age;
+    std::string name;
+
+    std::cout << "Please type in your last name: ";
+    std::cin >> name;
+
+    std::cout << "Please type in your age: ";
+    std::cin >> age;
+
+    std::cout << "Hello " << name << "! You are " << age << " years old." << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0019.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int age;
+    std::string name;
+
+    std::cout << "Please type in your last name and age, seperated by spaces: ";
+    std::cin >> name >> age; // input name and age
+
+    std::cout << "Hello " << name << "! You are " << age << " years old." << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0020.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int age;
+    std::string full_name;
+
+    std::cout << "Please type in your full name: " << std::endl;
+    std::getline(std::cin, full_name);
+
+    std::cout << "Type in your age: " << std::endl;
+    std::cin >> age;
+
+    std::cout << "Hello " << full_name << "! You are " << age << " years old." << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0021.cpp-----------------------------------------------------
+#include <iostream>
+#include <string>
+
+int main()
+{
+    int age;
+    std::string full_name;
+
+    std::cout << "Please type in your full name: ";
+    std::getline(std::cin, full_name);
+
+    std::cout << "Type in your age: ";
+    std::cin >> age;
+
+    std::cout << "Hello " << full_name << "! You are " << age << " years old." << std::endl;
+
+    std::cout << "Hello " << full_name
+        << "! You are " << age << " years old." << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0022.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int number1 = 15; // Decimal
+    int number2 = 017; // Octal (leading 0)
+    int number3 = 0x0F; // Hexadecimal (leading 0x)
+    int number4 = 0b00001111; // Binary (leading 0b)
+
+    std::cout << "Hello World!" << std::endl;
+
+    std::cout << "Number1 is: " << number1 << std::endl;
+    std::cout << "Number2 is: " << number2 << std::endl;
+    std::cout << "Number3 is: " << number3 << std::endl;
+    std::cout << "Number4 is: " << number4 << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0023.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int elephant_count; // Initializes to random number
+    int lion_count {}; // Initializes to 0
+    int dog_count {10}; // Initializes to 10
+    int cat_count {15}; // Initializes to 15
+    int domestic_animals {dog_count + cat_count}; // Initializes to 25
+    // int narrowing_conversion_nr1 {2.9}; // Initializes not to 2, compile error (Brace Initialization)
+    int narrowing_conversion_nr2 = 2.9; // Initializes to 2 (Copy Initialization)
+
+    std::cout << "elephant_count: " << elephant_count << std::endl;
+    std::cout << "lion_count: " << lion_count << std::endl;
+    std::cout << "dog_count: " << dog_count << std::endl;
+    std::cout << "cat_count: " << cat_count << std::endl;
+    std::cout << "domestic_animals: " << domestic_animals << std::endl;
+    std::cout << "narrowing_conversion_nr2: " << narrowing_conversion_nr2 << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0024.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int truck_count {40};
+
+    std::cout << "truck_count: " << truck_count << std::endl;
+
+    std::cout << "sizeof int: " << sizeof(int) << std::endl;
+    std::cout << "sizeof truc_count: " << sizeof(truck_count) << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0025.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int value1 {10};
+    int value2 {-300};
+    short int value3 {-3};
+    long int value4 {-4};
+    long long int value5 {-5};
+
+    std::cout << "value1: " << value1 << std::endl;
+    std::cout << "value2: " << value2 << std::endl;
+
+    std::cout << "sum: " << (value1 + value2) << std::endl;
+
+    std::cout << "value3: " << value3 << " sizeof(value3): "  << sizeof(value3) << std::endl;
+    std::cout << "value4: " << value4 << " sizeof(value4): "  << sizeof(value4) << std::endl;
+    std::cout << "value5: " << value5 << " sizeof(value5): "  << sizeof(value5) << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0026.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    float number1 {1.12345678901234567890}; // precision 1.7 in 4 bytes (4*2=1+7)
+    double number2 {1.12345678901234567890}; // precision 1.15 in 8 bytes (8*2=1+15)
+    long double number3 {1.12345678901234567890}; // precision 1.31 in 16 bytes (16*2=1+31)
+
+    long double number4 {192400023};
+    long double number5 {1.92400023e8};
+    long double number6 {1.924e8};
+    long double number7 {0.00000000003498};
+    long double number8 {3.498e-11};
+
+    // std::cout << std::setprecision(20);
+
+    std::cout << "sizeof(float): "  << sizeof(float) << std::endl;
+    std::cout << "sizeof(double): "  << sizeof(double) << std::endl;
+    std::cout << "sizeof(long double): "  << sizeof(long double) << std::endl;
+
+    std::cout << "number1: " << number1 << " sizeof(number1): "  << sizeof(number1) << std::endl;
+    std::cout << "number2: " << number2 << " sizeof(number2): "  << sizeof(number2) << std::endl;
+    std::cout << "number3: " << number3 << " sizeof(number3): "  << sizeof(number3) << std::endl;
+
+    std::cout << "number4: " << number4 << std::endl;
+    std::cout << "number5: " << number5 << std::endl;
+    std::cout << "number6: " << number6 << std::endl;
+    std::cout << "number7: " << number7 << std::endl;
+    std::cout << "number8: " << number8 << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0027.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    float number1 {1.12345678901234567890}; // precision 1.7 in 4 bytes (4*2=1+7)
+    double number2 {1.12345678901234567890}; // precision 1.15 in 8 bytes (8*2=1+15)
+
+    double number3 {192400023};
+    double number4 {1.92400023e8};
+    double number5 {1.924e8};
+    double number6 {0.00000000003498};
+    double number7 {3.498e-11};
+
+    std::cout << std::setprecision(20);
+
+    std::cout << "sizeof(float): " << sizeof(float) << std::endl;
+    std::cout << "sizeof(double): " << sizeof(double) << std::endl;
+
+    std::cout << "number1: " << number1 << " sizeof(number1): " << sizeof(number1) << std::endl; // setprecision(20) 1.1234568357467651367
+    std::cout << "number2: " << number2 << " sizeof(number2): " << sizeof(number2) << std::endl; // setprecision(20) 1.1234567890123456912
+
+    std::cout << "number3: " << number3 << std::endl;
+    std::cout << "number4: " << number4 << std::endl;
+    std::cout << "number5: " << number5 << std::endl;
+    std::cout << "number6: " << number6 << std::endl;
+    std::cout << "number7: " << number7 << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0028.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    double result;
+
+    result = 1.0 / 1.0;
+    std::cout << "result: " << result << std::endl; // 1
+
+    result = 0.0 / 0.0;
+    std::cout << "result: " << result << std::endl; // nan
+
+    result = 1.0 / 0.0;
+    std::cout << "result: " << result << std::endl; // inf
+
+    result = -1.0 / 0.0;
+    std::cout << "result: " << result << std::endl; // -inf
+
+    result += 1000000000;
+    std::cout << "result: " << result << std::endl; // -inf
+
+    return 0;
+}
+----main_learn_cpp_0029.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    bool red_light {true};
+    bool green_light {false};
+
+    if (red_light == true)
+    {
+        std::cout << "Stop" << std::endl;
+    }
+    else
+    {
+        std::cout << "Go through" << std::endl;
+    }
+
+
+    if (green_light)
+    {
+        std::cout << "The traffic light is green" << std::endl;
+    }
+    else
+    {
+        std::cout << "The traffic light is not green" << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0030.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    bool red_light {true};
+    bool green_light {false};
+
+    std::cout << "red_light: " << red_light << std::endl; // 1
+    std::cout << "green_light: " << green_light << std::endl; // 0
+
+    std::cout << std::boolalpha;
+    std::cout << "red_light: " << red_light << std::endl; // true
+    std::cout << "green_light: " << green_light << std::endl; // false
+
+    std::cout << std::noboolalpha;
+    std::cout << "red_light: " << red_light << std::endl; // 1
+    std::cout << "green_light: " << green_light << std::endl; // 0
+
+    std::cout << "sizeof(bool): " << sizeof(bool) << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0031.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    char character1 {'a'};
+    char character2 {'r'};
+    char character3 {'r'};
+    char character4 {'o'};
+    char character5 {'w'};
+
+    char value {65}; // 'A'
+
+    std::cout << "Gerard" << std::endl;
+
+    std::cout << character1 << std::endl;
+    std::cout << character2 << std::endl;
+    std::cout << character3 << std::endl;
+    std::cout << character4 << std::endl;
+    std::cout << character5 << std::endl;
+
+    std::cout << "value: " << value << std::endl;
+    std::cout << "value(int): " << static_cast<int>(value) << std::endl;
+    std::cout << "sizeof(value): " << sizeof(value) << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0032.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    auto var1 {'e'};        // char   1 byte
+    auto var2 {12};         // int    4 bytes
+    auto var3 {1.3f};       // float  4 bytes
+    auto var4 {1.3};        // double 8 bytes
+    auto var5 {1.234e6};    // double 8 bytes
+
+    std::cout << "var1: " << var1 << " sizeof(var1): " << sizeof(var1) << std::endl;
+    std::cout << "var2: " << var2 << " sizeof(var2): " << sizeof(var2) << std::endl;
+    std::cout << "var3: " << var3 << " sizeof(var3): " << sizeof(var3) << std::endl;
+    std::cout << "var4: " << var4 << " sizeof(var4): " << sizeof(var4) << std::endl;
+    std::cout << "var5: " << var5 << " sizeof(var5): " << sizeof(var5) << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0033.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int var1 {123};
+    double var2 {44.55};
+    bool var3 {false};
+
+    std::cout << std::boolalpha;
+
+    std::cout << "var1: " << var1 << std::endl;
+    std::cout << "var2: " << var2 << std::endl;
+    std::cout << "var3: " << var3 << std::endl;
+
+    var1 = 55;
+    var2 = 99.99;
+    var3 = true;
+
+    std::cout << "var1: " << var1 << std::endl;
+    std::cout << "var2: " << var2 << std::endl;
+    std::cout << "var3: " << var3 << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0034.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int number1 {2};
+    int number2 {7};
+    int sum;
+    int difference;
+    int product;
+    int quotient;
+    int modulus;
+
+    std::cout << "number1: " << number1 << std::endl;
+    std::cout << "number2: " << number2 << std::endl;
+
+    // Add (sum)
+    sum = number1 + number2;
+    std::cout << "sum: " << sum << std::endl;
+
+    // Subtract (difference)
+    difference = number1 - number2;
+    std::cout << "difference: " << difference << std::endl;
+
+    // Multiply (product)
+    product = number1 * number2;
+    std::cout << "product: " << product << std::endl;
+
+    // Divide (quotient)
+    quotient = number1 / number2;
+    std::cout << "quotient: " << quotient << std::endl;
+
+    // Modulo (modulus or remainder)
+    modulus = number1 % number2;
+    std::cout << "modulus: " << modulus << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0035.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int a {1};
+    int b {2};
+    int c {3};
+    int d {40};
+    int e {5};
+    int f {6};
+    int g {7};
+    int result;
+
+    std::cout << "a: " << a << std::endl;
+    std::cout << "b: " << b << std::endl;
+    std::cout << "c: " << c << std::endl;
+    std::cout << "d: " << d << std::endl;
+    std::cout << "e: " << e << std::endl;
+    std::cout << "f: " << f << std::endl;
+    std::cout << "g: " << g << std::endl;
+
+    result = a + b * c - d / e - f + g;
+    std::cout << "a + b * c - d / e - f + g: " << result << std::endl; // 0
+
+    d = 80;
+    result = a + b * c - d / e - f + g;
+    std::cout << "d: " << d << std::endl;
+    std::cout << "a + b * c - d / e - f + g: " << result << std::endl; // -8
+
+    result = d / e * f + g;
+    std::cout << "d / e * f + g: " << result << std::endl; // 103
+
+    result = d / (e * f) + g;
+    std::cout << "d / (e * f) + g: " << result << std::endl; // 9
+
+    return 0;
+}
+----main_learn_cpp_0036.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int value {5};
+
+    // post increment
+    std::cout << "value: " << value++ << std::endl; // 5
+    std::cout << "value: " << value << std::endl; // 6
+
+    value = 5;
+
+    // post decrement
+    std::cout << "value: " << value-- << std::endl; // 5
+    std::cout << "value: " << value << std::endl; // 4
+
+    return 0;
+}
+----main_learn_cpp_0037.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int value {5};
+
+    // pre increment
+    std::cout << "value: " << value << std::endl; // 5
+    std::cout << "value: " << ++value << std::endl; // 6
+
+    value = 5;
+
+    // pre decrement
+    std::cout << "value: " << value << std::endl; // 5
+    std::cout << "value: " << --value << std::endl; // 4
+
+    return 0;
+}
+----main_learn_cpp_0038.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int value {45};
+
+    // compound assignment operators
+
+    // addition
+    value += 5;
+    std::cout << "value: " << value << std::endl; // 50
+
+    // subtraction
+    value -= 5;
+    std::cout << "value: " << value << std::endl; // 45
+
+    // multiplication
+    value *= 2;
+    std::cout << "value: " << value << std::endl; // 90
+
+    // division
+    value /= 3;
+    std::cout << "value: " << value << std::endl; // 30
+
+    // modulus
+    value %= 11;
+    std::cout << "value: " << value << std::endl; // 8
+
+    return 0;
+}
+----main_learn_cpp_0039.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int number1 {45};
+    int number2 {60};
+    bool result {false};
+
+    std::cout << std::boolalpha;
+
+    std::cout << "number1: " << number1 << " number2: " << number2 <<  std::endl;
+
+    // relational operators
+    std::cout << "(number1 < number2): " << (number1 < number2) << std::endl; // true
+    std::cout << "(number1 <= number2): " << (number1 <= number2) << std::endl; // true
+    std::cout << "(number1 > number2): " << (number1 > number2) << std::endl; // false
+    std::cout << "(number1 >= number2): " << (number1 >= number2) << std::endl; // false
+
+    // equality operators
+    std::cout << "(number1 == number2): " << (number1 == number2) << std::endl; // false
+    std::cout << "(number1 != number2): " << (number1 != number2) << std::endl; // true
+
+    std::cout << std::noboolalpha;
+    std::cout << "(number1 == number2): " << (number1 == number2) << std::endl; // 0
+    std::cout << "(number1 != number2): " << (number1 != number2) << std::endl; // 1
+
+    std::cout << std::boolalpha;
+    result = (number1 < number2);
+    std::cout << "result = (number1 < number2): " << result << std::endl; // true
+
+    return 0;
+}
+----main_learn_cpp_0040.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    bool a {true};
+    bool b {false};
+    bool c {true};
+
+    std::cout << std::boolalpha;
+
+    std::cout << "a: " << a << std::endl;
+    std::cout << "b: " << b << std::endl;
+    std::cout << "c: " << c << std::endl;
+
+    // logical operator and
+    std::cout << "(a && b): " << (a && b) << std::endl; // false
+    std::cout << "(a && c): " << (a && c) << std::endl; // true
+    std::cout << "(a && b && c): " << (a && b && c) << std::endl; // false
+
+    // logical operator or
+    std::cout << "(a || b): " << (a || b) << std::endl; // true
+    std::cout << "(a || c): " << (a || c) << std::endl; // true
+    std::cout << "(a || b || c): " << (a || b || c) << std::endl; // true
+
+    // logical operator not
+    std::cout << "!a: " << !a << std::endl; // false
+    std::cout << "!b: " << !b << std::endl; // true
+    std::cout << "!c: " << !c << std::endl; // false
+
+    c = false;
+    std::cout << "c: " << c << std::endl;
+    std::cout << "(!(a && b) || c): " << (!(a && b) || c) << std::endl; // true
+
+    return 0;
+}
+----main_learn_cpp_0041.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    bool a {true};
+    bool b {false};
+    bool c {true};
+    int d {45};
+    int e {20};
+    int f {11};
+
+    std::cout << std::boolalpha;
+
+    std::cout << "a: " << a << std::endl; // true
+    std::cout << "b: " << b << std::endl; // false
+    std::cout << "c: " << c << std::endl; // true
+    std::cout << "d: " << d << std::endl; // 45
+    std::cout << "e: " << e << std::endl; // 20
+    std::cout << "f: " << f << std::endl; // 11
+
+    // mix of relational equality logical operators result in true or false
+    std::cout << "((d > e) && (d > f)): " << ((d > e) && (d > f)) << std::endl; // true
+    std::cout << "((d == e) || (e <= f)): " << ((d == e) || (e <= f)) << std::endl; // false
+    std::cout << "((d < e) || (d > f)): " << ((d < e) || (d > f)) << std::endl; // true
+    std::cout << "((f > e) || (d < f)): " << ((f > e) || (d < f)) << std::endl; // false
+    std::cout << "((d > f) && (f <= d)): " << ((d > f) && (f <= d)) << std::endl; // true
+    std::cout << "((d > e) && (d <= f)): " << ((d > e) && (d <= f)) << std::endl; // false
+    std::cout << "((a == c) && (d > e)): " << ((a == c) && (d > e)) << std::endl; // true
+    std::cout << "((!b) && (e > f)): " << ((!b) && (e > f)) << std::endl; // true
+
+    return 0;
+}
+----main_learn_cpp_0042.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello";
+    std::cout << "World";
+    std::cout << std::endl;
+
+    std::cout << "----------" << std::endl;
+
+    std::cout << "Hello" << std::endl;
+    std::cout << "World" << std::endl;
+
+    std::cout << "Hello\n";
+    std::cout << "World\n";
+
+    return 0;
+}
+----main_learn_cpp_0043.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    std::cout << "Unformatted table:" << std::endl;
+    std::cout << "Lastname Firstname Age" << std::endl;
+    std::cout << "Daniel Gray 25" << std::endl;
+    std::cout << "Stanley Woods 33" << std::endl;
+    std::cout << "Jordan Parker 45" << std::endl;
+    std::cout << "Joe Ball 21" << std::endl;
+    std::cout << "Josh Carr 27" << std::endl;
+    std::cout << "Izaiah Robinson 29" << std::endl;
+
+    std::cout << std::endl;
+
+    std::cout << "Formatted table:" << std::endl;
+    std::cout << std::setw(10) << "Lastname" << std::setw(10) << "Firstname" << std::setw(5) << "Age" << std::endl;
+    std::cout << std::setw(10) << "Daniel" << std::setw(10) << "Gray" << std::setw(5) << "25" << std::endl;
+    std::cout << std::setw(10) << "Stanley" << std::setw(10) << "Woods" << std::setw(5) << "33" << std::endl;
+    std::cout << std::setw(10) << "Jordan" << std::setw(10) << "Parker" << std::setw(5) << "45" << std::endl;
+    std::cout << std::setw(10) << "Joe" << std::setw(10) << "Ball" << std::setw(5) << "21" << std::endl;
+    std::cout << std::setw(10) << "Josh" << std::setw(10) << "Carr" << std::setw(5) << "27" << std::endl;
+    std::cout << std::setw(10) << "Izaiah" << std::setw(10) << "Robinson" << std::setw(5) << "29" << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0044.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    std::cout << "Unformatted table:" << std::endl;
+    std::cout << "Lastname Firstname Age" << std::endl;
+    std::cout << "Daniel Gray 25" << std::endl;
+    std::cout << "Stanley Woods 33" << std::endl;
+    std::cout << "Jordan Parker 45" << std::endl;
+    std::cout << "Joe Ball 21" << std::endl;
+    std::cout << "Josh Carr 27" << std::endl;
+    std::cout << "Izaiah Robinson 29" << std::endl;
+
+    std::cout << std::endl;
+
+    std::cout << std::left;
+
+    std::cout << "Formatted table:" << std::endl;
+    std::cout << std::setw(10) << "Lastname" << std::setw(10) << "Firstname" << std::setw(5) << "Age" << std::endl;
+    std::cout << std::setw(10) << "Daniel" << std::setw(10) << "Gray" << std::setw(5) << "25" << std::endl;
+    std::cout << std::setw(10) << "Stanley" << std::setw(10) << "Woods" << std::setw(5) << "33" << std::endl;
+    std::cout << std::setw(10) << "Jordan" << std::setw(10) << "Parker" << std::setw(5) << "45" << std::endl;
+    std::cout << std::setw(10) << "Joe" << std::setw(10) << "Ball" << std::setw(5) << "21" << std::endl;
+    std::cout << std::setw(10) << "Josh" << std::setw(10) << "Carr" << std::setw(5) << "27" << std::endl;
+    std::cout << std::setw(10) << "Izaiah" << std::setw(10) << "Robinson" << std::setw(5) << "29" << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0045.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    std::cout << "12345678901234567890" << std::endl;
+    std::cout << std::setw(10) << -123.45 << std::endl; // "   -123.45"
+    std::cout << std::internal;
+    std::cout << std::setw(10) << -123.45 << std::endl; // "-   123.45"
+    std::cout << std::setw(10) << -1234.56 << std::endl; // "-  1234.56"
+
+    return 0;
+}
+----main_learn_cpp_0046.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    std::cout << std::left;
+    std::cout << std::setfill('-');
+
+    std::cout << std::setw(10) << "Lastname" << std::setw(10) << "Firstname" << std::setw(5) << "Age" << std::endl;
+    std::cout << std::setw(10) << "Daniel" << std::setw(10) << "Gray" << std::setw(5) << "25" << std::endl;
+    std::cout << std::setw(10) << "Stanley" << std::setw(10) << "Woods" << std::setw(5) << "33" << std::endl;
+    std::cout << std::setw(10) << "Jordan" << std::setw(10) << "Parker" << std::setw(5) << "45" << std::endl;
+    std::cout << std::setw(10) << "Joe" << std::setw(10) << "Ball" << std::setw(5) << "21" << std::endl;
+    std::cout << std::setw(10) << "Josh" << std::setw(10) << "Carr" << std::setw(5) << "27" << std::endl;
+    std::cout << std::setw(10) << "Izaiah" << std::setw(10) << "Robinson" << std::setw(5) << "29" << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0047.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int pos_num {34};
+    int neg_num {-45};
+
+    std::cout << "pos_num: " << pos_num << std::endl; // 34
+    std::cout << "neg_num: " << neg_num << std::endl; // -45
+
+    std::cout << std::showpos;
+    std::cout << "pos_num: " << pos_num << std::endl; // +34
+    std::cout << "neg_num: " << neg_num << std::endl; // -45
+
+    std::cout << std::noshowpos;
+    std::cout << "pos_num: " << pos_num << std::endl; // 34
+    std::cout << "neg_num: " << neg_num << std::endl; // -45
+
+    return 0;
+}
+----main_learn_cpp_0048.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int pos_num {34};
+    int neg_num {-45};
+
+    std::cout << "pos_num: " << std::dec << pos_num << std::endl; // 34
+    std::cout << "neg_num: " << std::dec << neg_num << std::endl; // -45
+
+    std::cout << "pos_num: " << std::hex << pos_num << std::endl; // 22
+    std::cout << "neg_num: " << std::hex << neg_num << std::endl; // ffffffd3
+
+    std::cout << std::showbase;
+    std::cout << "pos_num: " << std::hex << pos_num << std::endl; // 0x22
+    std::cout << "neg_num: " << std::hex << neg_num << std::endl; // 0xffffffd3
+
+    std::cout << std::noshowbase;
+    std::cout << "pos_num: " << std::hex << pos_num << std::endl; // 22
+    std::cout << "neg_num: " << std::hex << neg_num << std::endl; // ffffffd3
+
+    std::cout << std::showbase;
+    std::cout << std::uppercase;
+    std::cout << "pos_num: " << std::hex << pos_num << std::endl; // 0x22
+    std::cout << "neg_num: " << std::hex << neg_num << std::endl; // 0XFFFFFFD3
+
+    std::cout << std::noshowbase;
+    std::cout << std::uppercase;
+    std::cout << "pos_num: 0x" << std::hex << pos_num << std::endl; // 0x22
+    std::cout << "neg_num: 0x" << std::hex << neg_num << std::endl; // 0xFFFFFFD3
+
+    return 0;
+}
+----main_learn_cpp_0049.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    double a {3.141592654};
+    double b {2006};
+    double c {1.34e-1};
+
+    std::cout << "a: " << a << std::endl; // 3.14159
+    std::cout << "b: " << b << std::endl; // 2006
+    std::cout << "c: " << c << std::endl; // 1.34e-1
+
+    std::cout << std::fixed;
+    std::cout << "a: " << a << std::endl; // 3.141593
+    std::cout << "b: " << b << std::endl; // 2006.000000
+    std::cout << "c: " << c << std::endl; // 0.134000
+
+    std::cout << std::setprecision(3);
+    std::cout << "a: " << a << std::endl; // 3.142
+    std::cout << "b: " << b << std::endl; // 2006.000
+    std::cout << "c: " << c << std::endl; // 0.134
+
+    std::cout << std::setprecision(6);
+    std::cout << "a: " << a << std::endl; // 3.141593
+    std::cout << "b: " << b << std::endl; // 2006.000000
+    std::cout << "c: " << c << std::endl; // 0.134000
+
+    std::cout << "a: " << std::setw(11) << a << std::endl; // a:    3.141593
+    std::cout << "b: " << std::setw(11) << b << std::endl; // b: 2006.000000
+    std::cout << "c: " << std::setw(11) << c << std::endl; // c:    0.134000
+
+    return 0;
+}
+----main_learn_cpp_0050.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    double a {3.141592654};
+    double b {2006};
+    double c {1.34e-1};
+    double d {1.34e-10};
+
+    std::cout << "a: " << a << std::endl; // a: 3.14159
+    std::cout << "b: " << b << std::endl; // b: 2006
+    std::cout << "c: " << c << std::endl; // c: 0.134
+    std::cout << "d: " << d << std::endl; // d: 1.34e-10
+
+    std::cout << std::fixed;
+
+    std::cout << "a: " << std::setw(11) << a << std::endl; // a:    3.141593
+    std::cout << "b: " << std::setw(11) << b << std::endl; // b: 2006.000000
+    std::cout << "c: " << std::setw(11) << c << std::endl; // c:    0.134000
+    std::cout << "d: " << std::setw(11) << d << std::endl; // d:    0.000000
+
+    std::cout << std::scientific;
+
+    std::cout << "a: " << a << std::endl; // a: 3.141593e+00
+    std::cout << "b: " << b << std::endl; // b: 2.006000e+03
+    std::cout << "c: " << c << std::endl; // c: 1.340000e-01
+    std::cout << "d: " << d << std::endl; // d: 1.340000e-10
+
+    return 0;
+}
+----main_learn_cpp_0051.cpp-----------------------------------------------------
+#include <iostream>
+#include <iomanip>
+
+int main()
+{
+    double a {34.1};
+    double b {101.99};
+    double c {12.0};
+    int d {45};
+
+    std::cout << "a: " << a << std::endl; // a: 34.1
+    std::cout << "b: " << b << std::endl; // b: 101.99
+    std::cout << "c: " << c << std::endl; // c: 12
+    std::cout << "d: " << d << std::endl; // d: 45
+
+    std::cout << std::showpoint;
+
+    // print with default setprecision(6) and default fixed flag turned off
+    std::cout << "a: " << a << std::endl; // a: 34.1000
+    std::cout << "b: " << b << std::endl; // b: 101.990
+    std::cout << "c: " << c << std::endl; // c: 12.0000
+    std::cout << "d: " << d << std::endl; // d: 45
+
+    std::cout << std::hex << d << std::endl; // 2d
+    std::cout << d << std::endl; // 2d
+    std::cout << std::dec << d << std::endl; // 45
+    std::cout << d << std::endl; // 45
+
+    return 0;
+}
+----main_learn_cpp_0052.cpp-----------------------------------------------------
+#include <iostream>
+#include <limits>
+
+int main()
+{
+    int var1_min {-100};
+    int var1_max {100};
+    double var2_double {200};
+    long double var3_long_double {300};
+
+    std::cout << "The range for var1 is from " << var1_min << " to "
+        << var1_max << std::endl;
+
+    std::cout << "The range for short is from " << std::numeric_limits<short>::min() << " to "
+        << std::numeric_limits<short>::max() << std::endl;
+
+    std::cout << "The range for unsigned short is from " << std::numeric_limits<unsigned short>::min() << " to "
+        << std::numeric_limits<unsigned short>::max() << std::endl;
+
+    std::cout << "The range for int is from " << std::numeric_limits<int>::min() << " to "
+        << std::numeric_limits<int>::max() << std::endl;
+
+    std::cout << "The range for unsigned int is from " << std::numeric_limits<unsigned int>::min() << " to "
+        << std::numeric_limits<unsigned int>::max() << std::endl;
+
+    std::cout << "The range for long is from " << std::numeric_limits<long>::min() << " to "
+        << std::numeric_limits<long>::max() << std::endl;
+
+    std::cout << "The range for unsigned long is from " << std::numeric_limits<unsigned long>::min() << " to "
+        << std::numeric_limits<unsigned long>::max() << std::endl;
+
+    std::cout << "The range for float is from " << std::numeric_limits<float>::min() << " to "
+        << std::numeric_limits<float>::max() << std::endl;
+
+    std::cout << "The range with lowest() for float is from " << std::numeric_limits<float>::lowest() << " to "
+        << std::numeric_limits<float>::max() << std::endl;
+
+    std::cout << "The range for double is from " << std::numeric_limits<double>::min() << " to "
+        << std::numeric_limits<double>::max() << std::endl;
+
+    std::cout << "The range with lowest() for double is from " << std::numeric_limits<double>::lowest() << " to "
+        << std::numeric_limits<double>::max() << std::endl;
+
+    std::cout << "The range for long double is from " << std::numeric_limits<long double>::min() << " to "
+        << std::numeric_limits<long double>::max() << std::endl;
+
+    std::cout << "The range with lowest() for long double is from " << std::numeric_limits<long double>::lowest() << " to "
+        << std::numeric_limits<long double>::max() << std::endl;
+
+    std::cout << "sizeof(short): " << sizeof(short) << std::endl;
+    std::cout << "sizeof(unsigned short): " << sizeof(unsigned short) << std::endl;
+    std::cout << "sizeof(int): " << sizeof(int) << std::endl;
+    std::cout << "sizeof(unsigned int): " << sizeof(unsigned int) << std::endl;
+    std::cout << "sizeof(long): " << sizeof(long) << std::endl;
+    std::cout << "sizeof(unsigned long): " << sizeof(unsigned long) << std::endl;
+    std::cout << "sizeof(float): " << sizeof(float) << std::endl;
+    std::cout << "sizeof(double): " << sizeof(double) << std::endl;
+    std::cout << "sizeof(long double): " << sizeof(long double) << std::endl;
+
+    std::cout << "sizeof(var2_double): " << sizeof(var2_double) << std::endl;
+    std::cout << "sizeof(var3_long_double): " << sizeof(var3_long_double) << std::endl;
+
+    std::cout << "var2_double: " << var2_double << std::endl;
+    std::cout << "var3_long_double: " << var3_long_double << std::endl;
+
+    var2_double *= 10;
+    var3_long_double *= 10;
+
+    std::cout << "var2_double: " << var2_double << std::endl;
+    std::cout << "var3_long_double: " << var3_long_double << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0053.cpp-----------------------------------------------------
+#include <iostream>
+#include <limits>
+
+int main()
+{
+    std::cout << std::boolalpha;
+
+    std::cout << "short signed: " << std::numeric_limits<short>::is_signed << std::endl; // true
+    std::cout << "short digits: " << std::numeric_limits<short>::digits << std::endl; // 15 bits without sign bit
+    std::cout << "unsigned short signed: " << std::numeric_limits<unsigned short>::is_signed << std::endl; // false
+    std::cout << "unsigned short digits: " << std::numeric_limits<unsigned short>::digits << std::endl; // 16 bits without sign bit
+
+    std::cout << "int signed: " << std::numeric_limits<int>::is_signed << std::endl; // true
+    std::cout << "int digits: " << std::numeric_limits<int>::digits << std::endl; // 31 bits without sign bit
+    std::cout << "unsigned int signed: " << std::numeric_limits<unsigned int>::is_signed << std::endl; // false
+    std::cout << "unsigned int digits: " << std::numeric_limits<unsigned int>::digits << std::endl; // 32 bits without sign bit
+
+    return 0;
+}
+----main_learn_cpp_0054.cpp-----------------------------------------------------
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    double weight {7.7};
+
+    std::cout << "weight: " << weight << std::endl; // 7.7
+    std::cout << "std::floor(weight): " << std::floor(weight) << std::endl; // 7
+    std::cout << "std::ceil(weight): " << std::ceil(weight) << std::endl; // 8
+    std::cout << "std::round(weight): " << std::round(weight) << std::endl; // 8
+
+    weight = 7.49;
+    std::cout << "weight: " << weight << " std::round(weight): " << std::round(weight) << std::endl; // 7.49 7
+
+    weight = 7.5;
+    std::cout << "weight: " << weight << " std::round(weight): " << std::round(weight) << std::endl; // 7.5 8
+
+    return 0;
+}
+----main_learn_cpp_0055.cpp-----------------------------------------------------
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    double nr1 {7.7};
+    double nr2 {-5000};
+
+    std::cout << "nr1: " << nr1 << std::endl; // 7.7
+    std::cout << "nr2: " << nr2 << std::endl; // -5000
+
+    std::cout << "abs(nr1): " << std::abs(nr1) << std::endl; // 7.7
+    std::cout << "abs(nr2): " << std::abs(nr2) << std::endl; // 5000
+
+    return 0;
+}
+----main_learn_cpp_0056.cpp-----------------------------------------------------
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    double nr1 {0};
+    double nr2 {0};
+
+    std::cout << std::fixed; // print x.xxxxxx
+
+    nr1 = std::exp(2); // e ^ 2 = 2.718282 ^ 2 = 7.389056
+    std::cout << "nr1: " << nr1 << std::endl; // 7.389056
+
+    nr2 = std::log(nr1); // 7.389056 = 2.718282 ^ 2 = e ^ 2
+    std::cout << "nr2: " << nr2 << std::endl; // 2.000000
+
+    return 0;
+}
+----main_learn_cpp_0057.cpp-----------------------------------------------------
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    double nr1 {0};
+    double nr2 {0};
+
+    nr1 = std::pow(2, 3); // 2 ^ 3 = 8
+    std::cout << "nr1: " << nr1 << std::endl; // 8
+
+    nr2 = std::log2(nr1); // 8 = 2 ^ 3
+    std::cout << "nr2: " << nr2 << std::endl; // 3
+
+    return 0;
+}
+----main_learn_cpp_0058.cpp-----------------------------------------------------
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    double nr1 {0};
+    double nr2 {0};
+
+    nr1 = std::pow(10, 3); // 10 ^ 3 = 1000
+    std::cout << "nr1: " << nr1 << std::endl; // 1000
+
+    nr2 = std::log10(nr1); // 1000 = 10 ^ 3
+    std::cout << "nr2: " << nr2 << std::endl; // 3
+
+    return 0;
+}
+----main_learn_cpp_0059.cpp-----------------------------------------------------
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    double nr1 {0};
+    double nr2 {0};
+
+    nr1 = std::pow(9, 0.5); // 9 ^ 0.5 = 3
+    std::cout << "nr1: " << nr1 << std::endl; // 3
+
+    nr2 = std::sqrt(9); // square root of 9 is 3
+    std::cout << "nr2: " << nr2 << std::endl; // 3
+
+    return 0;
+}
+----main_learn_cpp_0060.cpp-----------------------------------------------------
+#include <iostream>
+#include <cmath>
+
+int main()
+{
+    float pi {0};
+
+    std::cout << std::fixed;
+
+    // angle 0.0 * pi = 000 deg
+    std::cout << "std::acos(1): " << std::acos(1) << std::endl; // 0.000000
+    // angle 0.5 * pi = 090 deg
+    std::cout << "std::asin(1): " << std::asin(1) << std::endl; // 1.570796
+    // angle 1.0 * pi = 180 deg
+    std::cout << "std::acos(-1): " << std::acos(-1) << std::endl; // 3.141593
+    // angle 1.5 * pi = 270 deg = -0.5 * pi = -90 deg
+    std::cout << "std::asin(-1): " << std::asin(-1) << std::endl; // -1.570796
+
+    pi = std::acos(-1);
+    std::cout << "pi: " << pi << std::endl; // 3.141593
+
+    std::cout << "circlepoint 01 cos(000) " << "std::cos(pi * 0): " << std::cos(pi * 0) << std::endl; // 1.000000
+    std::cout << "circlepoint 02 sin(030) " << "std::sin(pi / 6): " << std::sin(pi / 6) << std::endl; // 0.500000
+    std::cout << "circlepoint 03 tan(045) " << "std::tan(pi / 4): " << std::tan(pi / 4) << std::endl; // 1.000000
+    std::cout << "circlepoint 04 cos(060) " << "std::cos(pi / 3): " << std::cos(pi / 3) << std::endl; // 0.500000
+    std::cout << "circlepoint 05 sin(090) " << "std::sin(pi / 2): " << std::sin(pi / 2) << std::endl; // 1.000000
+    std::cout << "circlepoint 06 cos(120) " << "std::cos(pi * 4 / 6): " << std::cos(pi * 4 / 6) << std::endl; // -0.500000
+    std::cout << "circlepoint 07 tan(135) " << "std::tan(pi * 3 / 4): " << std::tan(pi * 3 / 4) << std::endl; // -1.000000
+    std::cout << "circlepoint 08 sin(150) " << "std::sin(pi * 5 / 6): " << std::sin(pi * 5 / 6) << std::endl; // 0.500000
+    std::cout << "circlepoint 09 cos(180) " << "std::cos(pi * 3 / 4): " << std::cos(pi * 6 / 6) << std::endl; // -1.000000
+    std::cout << "circlepoint 10 sin(210) " << "std::sin(pi * 7 / 6): " << std::sin(pi * 7 / 6) << std::endl; // -0.500000
+    std::cout << "circlepoint 11 tan(225) " << "std::tan(pi * 5 / 4): " << std::tan(pi * 5 / 4) << std::endl; // 1.000000
+    std::cout << "circlepoint 12 cos(240) " << "std::cos(pi * 8 / 6): " << std::cos(pi * 8 / 6) << std::endl; // -0.500000
+    std::cout << "circlepoint 13 sin(270) " << "std::sin(pi * 9 / 6): " << std::sin(pi * 9 / 6) << std::endl; // -1.000000
+    std::cout << "circlepoint 14 cos(300) " << "std::cos(pi * 10 / 6): " << std::cos(pi * 10 / 6) << std::endl; // 0.500000
+    std::cout << "circlepoint 15 tan(315) " << "std::tan(pi * 7 / 4): " << std::tan(pi * 7 / 4) << std::endl; // -0.999999
+    std::cout << "circlepoint 16 sin(330) " << "std::sin(pi * 11 / 6): " << std::sin(pi * 11 / 6) << std::endl; // -0.500000
+    std::cout << "circlepoint 17 cos(360) " << "std::cos(pi * 12 / 6): " << std::cos(pi * 12 / 6) << std::endl; // 1.000000
+
+    return 0;
+}
+----main_learn_cpp_0061.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    char var1 {10};
+    char var2 {20};
+    short var3 {30};
+    short var4 {40};
+
+    std::cout << "sizeof(var1): " << sizeof(var1) << std::endl; // 1
+    std::cout << "sizeof(var2): " << sizeof(var2) << std::endl; // 1
+    std::cout << "sizeof(var3): " << sizeof(var3) << std::endl; // 2
+    std::cout << "sizeof(var4): " << sizeof(var4) << std::endl; // 2
+
+    auto result1 = var1 + var2;
+    auto result2 = var3 + var4;
+
+    std::cout << "sizeof(result1): " << sizeof(result1) << std::endl; // 4
+    std::cout << "sizeof(result2): " << sizeof(result2) << std::endl; // 4
+
+    var1 = var1 + var2;
+    var3 = var3 + var4;
+    std::cout << "var1: " << static_cast<int>(var1) << " sizeof(var1): " << sizeof(var1) << std::endl; // 30 1
+    std::cout << "var3: " << var3 << " sizeof(var3): " << sizeof(var3) << std::endl; // 70 2
+
+    return 0;
+}
+----main_learn_cpp_0062.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int number1 {50}; // 50 or 70
+    int number2 {60};
+    bool result {false};
+
+    std::cout << std:: boolalpha;
+
+    result = (number1 < number2);
+
+    if (result == true)
+    {
+        std::cout << number1 << " is less than " << number2 << std::endl;
+    }
+
+    if (!(result == true))
+    {
+        std::cout << number1 << " is not less than " << number2 << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0063.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int number1 {50}; // 50 or 70
+    int number2 {60};
+    bool result {false};
+
+    std::cout << std:: boolalpha;
+
+    result = (number1 < number2);
+
+    if (result == true)
+    {
+        std::cout << number1 << " is less than " << number2 << std::endl;
+    }
+    else
+    {
+        std::cout << number1 << " is not less than " << number2 << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0064.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int number1 {50}; // 50 or 70
+    int number2 {60};
+    bool result {false};
+
+    std::cout << std:: boolalpha;
+
+    result = (number1 < number2);
+    std::cout << "result: " << result << std::endl;
+
+    if (number1 < number2)
+    {
+        std::cout << number1 << " is less than " << number2 << std::endl;
+    }
+    else
+    {
+        std::cout << number1 << " is not less than " << number2 << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0065.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    bool red {false};
+    bool orange {false};
+    bool green {true};
+    bool police_stop {false};
+
+    if (red)
+    {
+        std::cout << "trafficlight is red, stop" << std::endl;
+    }
+
+    if (orange)
+    {
+        std::cout << "trafficlight is orange, slow down" << std::endl;
+    }
+
+    if (green)
+    {
+        if (police_stop)
+        {
+            std::cout << "trafficlight is green but police_stop overrules this, stop" << std::endl;
+        }
+        else
+        {
+            std::cout << "trafficlight is green, go" << std::endl;
+        }
+    }
+
+    return 0;
+}
+----main_learn_cpp_0066.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    bool red {false};
+    bool orange {false};
+    bool green {true};
+    bool police_stop {false};
+
+    if (red)
+    {
+        std::cout << "trafficlight is red, stop" << std::endl;
+    }
+
+    if (orange)
+    {
+        std::cout << "trafficlight is orange, slow down" << std::endl;
+    }
+
+    if (green && police_stop)
+    {
+        std::cout << "trafficlight is green but police_stop overrules this, stop" << std::endl;
+    }
+    else
+    {
+        std::cout << "trafficlight is green, go" << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0067.cpp-----------------------------------------------------
+#include <iostream>
+
+const int PEN {10};
+const int MARKER {20};
+const int ERASER {30};
+const int RECTANGLE {40};
+const int CIRCLE {50};
+const int ELLIPSE {60};
+
+int main()
+{
+    int tool {PEN};
+
+    if (tool == PEN)
+    {
+        std::cout << "Active tool is PEN" << std::endl;
+    }
+    else if (tool == MARKER)
+    {
+        std::cout << "Active tool is MARKER" << std::endl;
+    }
+    else if (tool == ERASER)
+    {
+        std::cout << "Active tool is ERASER" << std::endl;
+    }
+    else if (tool == RECTANGLE)
+    {
+        std::cout << "Active tool is RECTANGLE" << std::endl;
+    }
+    else if (tool == CIRCLE)
+    {
+        std::cout << "Active tool is CIRCLE" << std::endl;
+    }
+    else if (tool == ELLIPSE)
+    {
+        std::cout << "Active tool is ELLIPSE" << std::endl;
+    }
+
+    std::cout << "Moving on" << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0068.cpp-----------------------------------------------------
+#include <iostream>
+
+const int PEN {10};
+const int MARKER {20};
+const int ERASER {30};
+const int RECTANGLE {40};
+const int CIRCLE {50};
+const int ELLIPSE {60};
+
+int main()
+{
+    int tool {PEN};
+
+    switch (tool)
+    {
+        case PEN:
+            std::cout << "Active tool is PEN" << std::endl;
+            break;
+
+        case MARKER:
+            std::cout << "Active tool is MARKER" << std::endl;
+            break;
+
+        case ERASER:
+            std::cout << "Active tool is ERASER" << std::endl;
+            break;
+
+        case RECTANGLE:
+            std::cout << "Active tool is RECTANGLE" << std::endl;
+            break;
+
+        case CIRCLE:
+            std::cout << "Active tool is CIRCLE" << std::endl;
+            break;
+
+        case ELLIPSE:
+            std::cout << "Active tool is ELLIPSE" << std::endl;
+            break;
+
+        default:
+            break;
+    }
+
+    std::cout << "Moving on" << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0069.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int a {30}; // 10 or 30
+    int b {20};
+    int max {0};
+
+    if (a > b)
+    {
+        max = a;
+    }
+    else
+    {
+        max = b;
+    }
+
+    std::cout << "max: " << max << std::endl;
+
+    // ternary expression
+    max = (a > b) ? a : b;
+
+    std::cout << "max: " << max << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0070.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    bool fast {false};
+    int speed {0};
+
+    speed = (fast) ? 300 : 150;
+    std::cout << "speed: " << speed << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0071.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+    std::cout << "I love C++" << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0072.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    unsigned int i {0};
+
+    for (i = 0; i < 10; i++)
+    {
+        std::cout << "I love C++" << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0073.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    unsigned int i {0};
+    size_t j {0}; // unsigned integer 4 bytes on 32 bit machine, unsigned integer 8 bytes on 64 bit machine
+
+    std::cout << "sizeof(i): " << sizeof(i) << std::endl;
+    for (i = 0; i < 4; i++)
+    {
+        std::cout << "I love C++" << std::endl;
+    }
+
+    std::cout << "sizeof(j): " << sizeof(j) << std::endl;
+    for (j = 0; j < 4; j++)
+    {
+        std::cout << "I love C++" << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0074.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    for (size_t i {0}; i < 4; i++)
+    {
+        std::cout << "scope of i iterator is inside this 1st for loop" << std::endl;
+    }
+
+    // std::cout << "i: " << i << std::endl; // compile error
+
+    for (size_t i {0}; i < 4; i++)
+    {
+        std::cout << "scope of i iterator is inside this 2nd for loop" << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0075.cpp-----------------------------------------------------
+#include <iostream>
+
+const size_t COUNT {10};
+
+int main()
+{
+    for (size_t i {0}; i < COUNT; i++)
+    {
+        std::cout << "i: " << i << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0076.cpp-----------------------------------------------------
+#include <iostream>
+
+const unsigned int COUNT {10};
+
+int main()
+{
+    unsigned int i {0};
+
+    while (i < COUNT)
+    {
+        std::cout << "i: " << i << std::endl;
+        i++;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0077.cpp-----------------------------------------------------
+#include <iostream>
+
+const unsigned int COUNT {10};
+
+int main()
+{
+    unsigned int i {0};
+
+    do
+    {
+        std::cout << "i: " << i << std::endl;
+        i++;
+    }
+    while (i < COUNT);
+
+    return 0;
+}
+----main_learn_cpp_0078.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int arr[] = {10, 20, 30, 40};
+    int i {0};
+    int *int_ptr;
+
+    // range based for loop
+    for (int value : arr)
+    {
+        std::cout << value << " "; // 10 20 30 40
+    }
+    std::cout << std::endl;
+
+    // C++ reference (compiler translates dereference to *value = *value + 1;)
+    for (int &value : arr)
+    {
+        value = value + 1;
+    }
+
+    for (int value : arr)
+    {
+        std::cout << value << " "; // 11 21 31 41
+    }
+    std::cout << std::endl;
+
+    int_ptr = &arr[0];
+    for (i = 0; i < 4; i++)
+    {
+        *int_ptr = *int_ptr + 1;
+        int_ptr++;
+    }
+
+    for (i = 0; i < 4; i++)
+    {
+        std::cout << arr[i] << " "; // 12 22 32 42
+    }
+    std::cout << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0079.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int scores[4];
+
+    scores[0] = 10;
+    scores[1] = 20;
+    scores[2] = 30;
+    scores[3] = 40;
+
+    for (size_t i {0}; i < 4; i++)
+    {
+        std::cout << scores[i] << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0080.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int scores[] {10, 20, 30, 40};
+
+    for (size_t i {0}; i < 4; i++)
+    {
+        std::cout << scores[i] << std::endl;
+    }
+
+    for (size_t i {0}; i < 4; i++)
+    {
+        scores[i] = i * 2;
+    }
+
+    for (size_t i {0}; i < 4; i++)
+    {
+        std::cout << scores[i] << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0081.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    double salaries[] {3.1, 4.1, 5.1, 6.1};
+
+    // range based for loop
+    for (double value : salaries)
+    {
+        std::cout << value << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0082.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    double salaries[] {3.1, 4.1, 5.1, 6.1};
+    double sum {0};
+
+    // range based for loop
+    for (double value : salaries)
+    {
+        sum += value;
+    }
+
+    std::cout << sum << std::endl; // 18.4
+
+    return 0;
+}
+----main_learn_cpp_0083.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    // array, specified elements initalized, other elements 0
+    int arr1[4] {0}; // 0 0 0 0
+    int arr2[4] {1}; // 1 0 0 0
+    int arr3[4] {0, 1, 2}; // 0 1 2 0
+    int arr4[4] {100, 200}; // 100 200 0 0
+
+    for (size_t i {0}; i < 4; i++)
+    {
+        std::cout << i << " "<< arr1[i] << std::endl;
+        std::cout << i << " "<< arr2[i] << std::endl;
+        std::cout << i << " "<< arr3[i] << std::endl;
+        std::cout << i << " "<< arr4[i] << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0084.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int age[] {11, 12, 13, 14, 15, 16, 17, 18};
+    double length[] {110.1, 120.1, 130.1, 140.1, 150.1, 160.1, 170.1, 180.1};
+
+    int size1 {0};
+    int size2 {0};
+
+    int nrof_arr_elements {0};
+
+    // C nrof_arr_elements = sizeof(arr) / sizeof(arr[0])
+    nrof_arr_elements = sizeof(length) / sizeof(length[0]);
+    std::cout << "C nrof_arr_elements: " << nrof_arr_elements << std::endl;
+
+    // C++ nrof_arr_elements = std::size(arr)
+    nrof_arr_elements = std::size(length);
+    std::cout << "C++ nrof_arr_elements: " << nrof_arr_elements << std::endl;
+
+    size1 = sizeof(age); // 8 * 4 = 32 bytes
+    size2 = std::size(age); // 8 array elements
+    std::cout << "size of array age[] in bytes " << size1 << std::endl;
+    std::cout << "size of array age[] in elements " << size2 << std::endl;
+
+    // size2 is nrof array elements is 8 (8 * 4 bytes)
+    for (int i {0}; i < size2; i++)
+    {
+        std::cout << "age[i]: " << age[i] << std::endl;
+    }
+
+    size1 = sizeof(length); // 8 * 8 = 64 bytes
+    size2 = std::size(length); // 8 array elements
+    std::cout << "size of array length[] in bytes " << size1 << std::endl;
+    std::cout << "size of array length[] in elements " << size2 << std::endl;
+
+    // size2 is nrof array elements is 8 (8 * 8 bytes)
+    for (int i {0}; i < size2; i++)
+    {
+        std::cout << "length[i]: " << length[i] << std::endl;
+    }
+
+    // range based for loop
+    for (int i : age)
+    {
+        std::cout << "age[] element: " << i << std::endl;
+    }
+
+    // range based for loop
+    for (double i : length)
+    {
+        std::cout << "length[] element: " << i << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0085.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    char message1[] = {'H', 'e', 'l', 'l', 'o', '\0'};
+    char message2[] = {'H', 'e', 'l', 'l', 'o'};
+
+    std::cout << "message1: " << message1 << std::endl;
+
+    std::cout << "message2: ";
+    for (auto c : message2)
+    {
+        std::cout << c;
+    }
+    std::cout << std::endl;
+
+    message2[1] = 'a';
+
+    std::cout << "message2: ";
+    for (auto c : message2)
+    {
+        std::cout << c;
+    }
+    std::cout << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0086.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    char message1[] = {'H', 'e', 'l', 'l', 'o', '\0'};
+    char message2[] = {'H', 'e', 'l', 'l', 'o'};
+
+    std::cout << "message1: " << message1 << std::endl;
+
+    std::cout << "message2: ";
+    for (auto c : message2)
+    {
+        std::cout << c;
+    }
+    std::cout << std::endl;
+
+    message2[1] = 'a';
+
+    std::cout << "message2: ";
+    for (auto c : message2)
+    {
+        std::cout << c;
+    }
+    std::cout << std::endl;
+
+    std::cout << std::size(message1) << std::endl; // 6
+    std::cout << std::size(message2) << std::endl; // 5
+
+    return 0;
+}
+----main_learn_cpp_0087.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    char message[] = {"Hello World!"};
+
+    std::cout << "message nrof char: " << std::size(message) << std::endl; // 12 + 1 = 13
+    std::cout << "message: " << message << std::endl;
+
+    return 0;
+}
+----main_learn_cpp_0088.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int arr_id[] = {10, 20, 30, 40};
+
+    std::cout << "arr_id nrof int: " << std::size(arr_id) << std::endl; // 4
+    std::cout << "arr_id: " << arr_id << std::endl; // 0x3f3f5ff7f0 (address of array, not 4 array elements)
+
+    int *ptr {NULL};
+    ptr = arr_id;
+    std::cout << ptr << std::endl; // 0x3f3f5ff7f0
+
+    *ptr = 11;
+
+    // range based for loop with auto deduct variable value
+    for (auto value : arr_id)
+    {
+        std::cout << value << std::endl;
+    }
+
+    return 0;
+}
+----main_learn_cpp_0089.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    char message[] {"Hello"};
+    int arr_id[] {10, 20, 30, 40};
+    double weight {123.456};
+    int *p_number {nullptr};
+    double *p_fractional_number {nullptr};
+
+    std::cout << message << std::endl; // Hello
+    std::cout << arr_id << std::endl; // 0x3f3f5ff7f0
+
+    p_number = arr_id;
+    std::cout << p_number << std::endl; // 0x3f3f5ff7f0
+
+    *p_number = 11;
+    for (auto value : arr_id)
+    {
+        std::cout << value << std::endl; // 11 20 30 40
+    }
+
+    std::cout << weight << std::endl; // 123.456
+
+    p_fractional_number = &weight;
+    *p_fractional_number = 7.8;
+    std::cout << weight << std::endl; // 7.8
+
+    std::cout << sizeof(p_number) << std::endl; // 8
+    std::cout << sizeof(p_fractional_number) << std::endl; // 8
+
+    return 0;
+}
+----main_learn_cpp_0090.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    char char_var {'A'};
+    char *p_char_var {nullptr};
+    char arr_text[] {"Gerard Zennipman"};
+    const char *p_message {"Hello World!"};
+
+    p_char_var = &char_var;
+    std::cout << *p_char_var << std::endl; // A
+
+    std::cout << arr_text << std::endl; // Gerard Zennipman
+    std::cout << p_message << std::endl; // Hello World!
+
+    std::cout << *p_message << std::endl; // H
+
+    return 0;
+}
+----main_learn_cpp_0091.cpp-----------------------------------------------------
+#include <iostream>
+
+int add_numbers(int a, int b)
+{
+    return (a + b);
+}
+
+
+int main()
+{
+    int a {10};
+    int b {20};
+    int c {0};
+
+    // stack is used for local vars and function calls and grows downward in sram memory
+
+    std::cout << a << std::endl;
+    std::cout << b << std::endl;
+
+    c = add_numbers(a, b);
+    std::cout << c << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0092.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr {nullptr};
+
+    p_nr = new int;
+
+    // stack is used for local vars and function calls and grows downward in sram memory
+    // heap is used for new and delete and grows upward in sram memory
+    // vars .data and .bss is used for global and static vars in sram memory
+    //  -------
+    // | stack |
+    // |   |   |
+    // |   v   |
+    // |-------|
+    // |       |
+    // |       |
+    // |       |
+    // |   ^   |
+    // |   |   |
+    // | heap  |
+    // |-------|
+    // |       |
+    // |       |
+    // | vars  |
+    //  -------
+
+    *p_nr = 77;
+    std::cout << *p_nr << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0093.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr {nullptr};
+
+    p_nr = new int;
+
+    // stack is used for local vars and function calls and grows downward in sram memory
+    // heap is used for new and delete and grows upward in sram memory
+    // vars .data and .bss is used for global and static vars in sram memory
+    //  -------
+    // | stack |
+    // |   |   |
+    // |   v   |
+    // |-------|
+    // |       |
+    // |       |
+    // |       |
+    // |   ^   |
+    // |   |   |
+    // | heap  |
+    // |-------|
+    // |       |
+    // |       |
+    // | vars  |
+    //  -------
+
+    *p_nr = 77;
+    std::cout << *p_nr << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0094.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr {nullptr};
+
+    p_nr = new int;
+
+    // stack is used for local vars and function calls and grows downward in sram memory
+    // heap is used for new and delete and grows upward in sram memory
+    // vars .data and .bss is used for global and static vars in sram memory
+    //  -------
+    // | stack |
+    // |   |   |
+    // |   v   |
+    // |-------|
+    // |       |
+    // |       |
+    // |       |
+    // |   ^   |
+    // |   |   |
+    // | heap  |
+    // |-------|
+    // |       |
+    // |       |
+    // | vars  |
+    //  -------
+
+    *p_nr = 77;
+    std::cout << *p_nr << std::endl; // 77
+
+    delete p_nr;
+    // std::cout << *p_nr << std::endl; // -574027952 or other value
+    p_nr = nullptr;
+    std::cout << p_nr << std::endl; // 0
+
+    return (0);
+}
+----main_learn_cpp_0095.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr {nullptr};
+
+    p_nr = new int;
+
+    // stack is used for local vars and function calls and grows downward in sram memory
+    // heap is used for new and delete and grows upward in sram memory
+    // vars .data and .bss is used for global and static vars in sram memory
+    //  -------
+    // | stack |
+    // |   |   |
+    // |   v   |
+    // |-------|
+    // |       |
+    // |       |
+    // |       |
+    // |   ^   |
+    // |   |   |
+    // | heap  |
+    // |-------|
+    // |       |
+    // |       |
+    // | vars  |
+    //  -------
+
+    *p_nr = 77;
+    std::cout << *p_nr << std::endl; // 77
+
+    delete p_nr;
+    // std::cout << *p_nr << std::endl; // -574027952 or other value
+    p_nr = nullptr;
+    std::cout << p_nr << std::endl; // 0
+
+    return (0);
+}
+----main_learn_cpp_0096.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr1 {nullptr};
+    int *p_nr2 {nullptr};
+    int *p_nr3 {nullptr};
+
+    p_nr1 = new int {1};
+    p_nr2 = new int {2};
+    p_nr3 = new int {3};
+
+    // stack is used for local vars and function calls and grows downward in sram memory
+    // heap is used for new and delete and grows upward in sram memory
+    // vars .data and .bss is used for global and static vars in sram memory
+    //  -------
+    // | stack |
+    // |   |   |
+    // |   v   |
+    // |-------|
+    // |       |
+    // |       |
+    // |       |
+    // |   ^   |
+    // |   |   |
+    // | heap  |
+    // |-------|
+    // |       |
+    // |       |
+    // | vars  |
+    //  -------
+
+    std::cout << p_nr1 << " " << *p_nr1 << std::endl; // heap_addr_nr1 1
+    std::cout << p_nr2 << " " << *p_nr2 << std::endl; // heap_addr_nr2 2
+    std::cout << p_nr3 << " " << *p_nr3 << std::endl; // heap_addr_nr3 3
+
+    *p_nr1 = 11;
+    *p_nr2 = 22;
+    *p_nr3 = 33;
+
+    std::cout << p_nr1 << " " << *p_nr1 << std::endl; // heap_addr_nr1 11
+    std::cout << p_nr2 << " " << *p_nr2 << std::endl; // heap_addr_nr2 22
+    std::cout << p_nr3 << " " << *p_nr3 << std::endl; // heap_addr_nr3 33
+
+    delete p_nr2;
+    // p_nr2 = nullptr;
+
+    std::cout << p_nr1 << " " << *p_nr1 << std::endl; // heap_addr_nr1 11
+    std::cout << p_nr2 << std::endl;                  // heap_addr_nr2
+    std::cout << p_nr3 << " " << *p_nr3 << std::endl; // heap_addr_nr3 33
+
+    return (0);
+}
+----main_learn_cpp_0097.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr1 {new int {1}}; // allocate heap memory
+    int *p_nr2 {new int {2}}; // allocate heap memory
+    int *p_nr3 {new int {3}}; // allocate heap memory
+    int *p_nr4 {new int {4}}; // allocate heap memory
+
+    std::cout << p_nr1 << " " << *p_nr1 << std::endl; // heap_addr_nr1 1
+    std::cout << p_nr2 << " " << *p_nr2 << std::endl; // heap_addr_nr2 2
+    std::cout << p_nr3 << " " << *p_nr3 << std::endl; // heap_addr_nr3 3
+    std::cout << p_nr4 << " " << *p_nr4 << std::endl; // heap_addr_nr4 4
+
+    *p_nr1 = 11;
+    *p_nr2 = 22;
+    *p_nr3 = 33;
+    *p_nr4 = 44;
+
+    std::cout << p_nr1 << " " << *p_nr1 << std::endl; // heap_addr_nr1 11
+    std::cout << p_nr2 << " " << *p_nr2 << std::endl; // heap_addr_nr2 22
+    std::cout << p_nr3 << " " << *p_nr3 << std::endl; // heap_addr_nr3 33
+    std::cout << p_nr4 << " " << *p_nr4 << std::endl; // heap_addr_nr4 44
+
+    delete p_nr1; // release heap memory
+    p_nr1 = nullptr;
+
+    delete p_nr2; // release heap memory
+    p_nr2 = nullptr;
+
+    delete p_nr3; // release heap memory
+    p_nr3 = nullptr;
+
+    delete p_nr4; // release heap memory
+    p_nr4 = nullptr;
+
+    return (0);
+}
+----main_learn_cpp_0098.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr {new int {1}};
+
+    std::cout << p_nr << " " << *p_nr << std::endl; // heap_addr_1 1
+
+    *p_nr = 2;
+    std::cout << p_nr << " " << *p_nr << std::endl; // heap_addr_1 2
+
+    delete p_nr;
+    p_nr = nullptr;
+
+    p_nr = new int {3};
+    std::cout << p_nr << " " << *p_nr << std::endl; // heap_addr_2 3
+
+    delete p_nr;
+    p_nr = nullptr;
+
+    return (0);
+}
+----main_learn_cpp_0099.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr1 {new int {83}};
+    int *p_nr2 {p_nr1};
+
+    std::cout << p_nr1 << " " << *p_nr1 << std::endl; // heap_addr_1 1
+    std::cout << p_nr2 << " " << *p_nr2 << std::endl; // heap_addr_1 1
+
+    delete p_nr1;
+    p_nr1 = nullptr;
+    p_nr2 = nullptr;
+
+    return (0);
+}
+----main_learn_cpp_0100.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr {new int {100}};
+
+    if (p_nr != nullptr)
+    {
+        std::cout << p_nr << " " << *p_nr << std::endl;
+    }
+    else
+    {
+        std::cout << "unexpected" << std::endl;
+    }
+
+    delete p_nr;
+    p_nr = nullptr;
+
+    if (p_nr != nullptr)
+    {
+        std::cout << p_nr << " " << *p_nr << std::endl;
+    }
+    else
+    {
+        std::cout << "expected" << std::endl;
+    }
+
+    return (0);
+}
+----main_learn_cpp_0101.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    size_t j {0};
+    bool exit {false};
+
+    for (size_t i {0}; (i < 1000000) && (exit == false); i++)
+    {
+        j = i;
+
+        try
+        {
+            int *p_lots_of_ints {new int[1000000]};
+        }
+        catch(std::exception& ex)
+        {
+            std::cout << "caught exeption: " << ex.what() << std::endl; // caught exeption: std::bad_alloc
+            exit = true;
+        }
+    }
+
+    std::cout << j << std::endl; // 14905 (after 16 sec 16 GB RAM for heap requested which is max of my PC)
+
+    return (0);
+}
+----main_learn_cpp_0102.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    size_t j {0};
+    bool exit {false};
+
+    for (size_t i {0}; (i < 1000000) && (exit == false); i++)
+    {
+        j = i;
+
+        int *p_lots_of_ints {new(std::nothrow) int[1000000]};
+
+        if (p_lots_of_ints == nullptr)
+        {
+            std::cout << "heap memory allocation failed"<< std::endl;
+            exit = true;
+        }
+    }
+
+    std::cout << j << std::endl; // 14905 (after 16 sec 16 GB RAM for heap requested which is max of my PC)
+
+    return (0);
+}
+----main_learn_cpp_0103.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_data = new int[100000000000];
+
+    // terminate called after throwing an instance of 'std::bad_alloc'
+    // what():  std::bad_alloc
+
+    std::cout << "heap memory allocation succeeded" << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0104.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_number {new int {100}};
+
+    std::cout << "*p_number: " << *p_number << std::endl;
+
+    // pointer to heap may be deleted once
+    delete p_number;
+    p_number = nullptr;
+
+    // pointer to 0 may be deleted several times
+    delete p_number;
+    delete p_number;
+
+    std::cout << "end of program" << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0105.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_number {new int {61}};
+    int age {63};
+
+    // memory leak on heap created, pointer to address with 61 lost
+    p_number = &age;
+
+    std::cout << "*p_number: " << *p_number << std::endl; // 63
+
+    return (0);
+}
+----main_learn_cpp_0106.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_number {new int {26}};
+
+    // memory leak on heap created, pointer to address with 26 lost
+    p_number = new int {30};
+
+    std::cout << "*p_number: " << *p_number << std::endl; // 30
+
+    return (0);
+}
+----main_learn_cpp_0107.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int *p_nr1 {new int {10}};
+    std::cout << "*p_nr1: " << *p_nr1 << std::endl; // 10
+
+    // memory leak on heap created, pointer to address with 20 lost (local scope)
+    {
+        int *p_nr2 {new int {20}};
+        std::cout << "*p_nr2: " << *p_nr2 << std::endl; // 20
+    }
+
+    std::cout << "*p_nr1: " << *p_nr1 << std::endl; // 10
+    // std::cout << "*p_nr2: " << *p_nr2 << std::endl; // 20 (local scope)
+
+    return (0);
+}
+----main_learn_cpp_0108.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int nr1 {10};
+    std::cout << "nr1: " << nr1 << std::endl; // 10
+
+    // local scope can have new temporary local variable with same name nr1
+    {
+        int nr1 {20};
+        std::cout << "nr1: " << nr1 << std::endl; // 20
+    }
+
+    std::cout << "nr1: " << nr1 << std::endl; // 10
+
+    return (0);
+}
+----main_learn_cpp_0109.cpp-----------------------------------------------------
+#include <iostream>
+
+const size_t STUDENT_COUNT {8};
+
+int main()
+{
+    int nrs[STUDENT_COUNT] {10, 20, 30, 40, 50, 60, 70, 80}; // 10, 20, 30, 40, 50, 60, 70, 80 (stack array)
+    int *p_idnr {new int[STUDENT_COUNT] {0} }; // 0 0 0 0 0 0 0 0 (heap array with exception)
+    double *p_score {new(std::nothrow) double[STUDENT_COUNT] {0} }; // 0 0 0 0 0 0 0 0 (heap array without exception)
+    double *p_salary {new(std::nothrow) double[STUDENT_COUNT] {1, 2, 3, 4} }; // 1 2 3 4 0 0 0 0 (heap array without exception)
+
+    // stack array supports sizeof(nrs)
+    std::cout << "sizeof(nrs) " << sizeof(nrs) << std::endl;
+
+    // stack array supports std::size(nrs) (nrof elements)
+    std::cout << "std::size(nrs) " << std::size(nrs) << std::endl;
+
+    // stack array supports range based loop
+    for (int value : nrs)
+    {
+        std::cout << value << std::endl;
+    }
+
+    // heap array supports sizeof(p_idnr)
+    std::cout << "sizeof(p_idnr) " << sizeof(p_idnr) << std::endl;
+
+    // heap array does not support std::size(p_idnr) (nrof elements)
+    // std::cout << "std::size(p_idnr) " << std::size(p_idnr) << std::endl;
+
+    // heap array does not support range based loop
+    // for (int value : p_idnr)
+    // {
+    //     std::cout << value << std::endl;
+    // }
+
+    for (size_t i {0}; i < STUDENT_COUNT; i++)
+    {
+        std::cout << i << " *p_idnr elements " << p_idnr[i] << " " << *(p_idnr + i) << std::endl;
+        std::cout << i << " *p_score elements " << p_score[i] << " " <<  *(p_score + i) << std::endl;
+        std::cout << i << " *p_salary elements " << p_salary[i] << " " << *(p_salary + i) << std::endl;
+    }
+
+    delete[] p_idnr; // free heap array
+    p_idnr = nullptr;
+
+    delete[] p_score; // free heap array
+    p_score = nullptr;
+
+    delete[] p_salary; // free heap array
+    p_salary = nullptr;
+
+    return (0);
+}
+----main_learn_cpp_0110.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int int_value {45};
+    double double_value {33.65};
+
+    // reference (3x) declare and initialize in one statement
+    // reference var is an alias var (same var with another name)
+    // reference behind the scenes uses a ptr for reference and *ptr for dereference
+    int &reference_to_int_value_1 {int_value};
+    int &reference_to_int_value_2 {int_value};
+    double &reference_to_double_value_1 {double_value};
+
+    std::cout << "int_value: " << int_value << std::endl;
+    std::cout << "double_value: " << double_value << std::endl;
+    std::cout << "reference_to_int_value_1: " << reference_to_int_value_1 << std::endl;
+    std::cout << "reference_to_int_value_2: " << reference_to_int_value_2 << std::endl;
+    std::cout << "reference_to_double_value_1: " << reference_to_double_value_1 << std::endl;
+    std::cout << "&int_value: " << &int_value << std::endl;
+    std::cout << "&double_value: " << &double_value << std::endl;
+    std::cout << "&reference_to_int_value_1: " << &reference_to_int_value_1 << std::endl;
+    std::cout << "&reference_to_int_value_2: " << &reference_to_int_value_2 << std::endl;
+    std::cout << "&reference_to_double_value_1: " << &reference_to_double_value_1 << std::endl;
+    std::cout << "sizeof(int): " << sizeof(int) << std::endl;
+    std::cout << "sizeof(int&): " << sizeof(int&) << std::endl;
+    std::cout << "sizeof(double): " << sizeof(double) << std::endl;
+    std::cout << "sizeof(double&): " << sizeof(double&) << std::endl;
+    std::cout << "sizeof(int_value): " << sizeof(int_value) << std::endl;
+    std::cout << "sizeof(reference_to_int_value_1): " << sizeof(reference_to_int_value_1) << std::endl;
+    std::cout << "sizeof(double_value): " << sizeof(double_value) << std::endl;
+    std::cout << "sizeof(reference_to_double_value_1): " << sizeof(reference_to_double_value_1) << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0111.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int int_value {45};
+    double double_value {33.65};
+
+    // reference (3x) declare and initialize in one statement
+    // reference var is an alias var (same var with another name)
+    // reference behind the scenes uses a ptr for reference and *ptr for dereference
+    int &reference_to_int_value_1 {int_value};
+    int &reference_to_int_value_2 {int_value};
+    double &reference_to_double_value_1 {double_value};
+
+    reference_to_int_value_1 = 55;
+    reference_to_double_value_1 = 9.99;
+
+    std::cout << "int_value: " << int_value << std::endl;
+    std::cout << "double_value: " << double_value << std::endl;
+    std::cout << "reference_to_int_value_1: " << reference_to_int_value_1 << std::endl;
+    std::cout << "reference_to_int_value_2: " << reference_to_int_value_2 << std::endl;
+    std::cout << "reference_to_double_value_1: " << reference_to_double_value_1 << std::endl;
+    std::cout << "&int_value: " << &int_value << std::endl;
+    std::cout << "&double_value: " << &double_value << std::endl;
+    std::cout << "&reference_to_int_value_1: " << &reference_to_int_value_1 << std::endl;
+    std::cout << "&reference_to_int_value_2: " << &reference_to_int_value_2 << std::endl;
+    std::cout << "&reference_to_double_value_1: " << &reference_to_double_value_1 << std::endl;
+    std::cout << "sizeof(int): " << sizeof(int) << std::endl;
+    std::cout << "sizeof(int&): " << sizeof(int&) << std::endl;
+    std::cout << "sizeof(double): " << sizeof(double) << std::endl;
+    std::cout << "sizeof(double&): " << sizeof(double&) << std::endl;
+    std::cout << "sizeof(int_value): " << sizeof(int_value) << std::endl;
+    std::cout << "sizeof(reference_to_int_value_1): " << sizeof(reference_to_int_value_1) << std::endl;
+    std::cout << "sizeof(double_value): " << sizeof(double_value) << std::endl;
+    std::cout << "sizeof(reference_to_double_value_1): " << sizeof(reference_to_double_value_1) << std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0112.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int int_data {33};
+    double double_data {55};
+
+    int &ref_int_data {int_data};
+    double &ref_double_data {double_data};
+
+    std::cout << "int_data: " << int_data <<std::endl;
+    std::cout << "&int_data: " << &int_data <<std::endl;
+    std::cout << "sizeof(int_data): " << sizeof(int_data) <<std::endl;
+    std::cout << "double_data: " << double_data <<std::endl;
+    std::cout << "&double_data: " << &double_data <<std::endl;
+    std::cout << "sizeof(double_data): " << sizeof(double_data) <<std::endl;
+
+    std::cout << "========================================" << std::endl;
+
+    std::cout << "ref_int_data: " << ref_int_data <<std::endl;
+    std::cout << "&ref_int_data: " << &ref_int_data <<std::endl;
+    std::cout << "sizeof(ref_int_data): " << sizeof(ref_int_data) <<std::endl;
+    std::cout << "ref_double_data: " << ref_double_data <<std::endl;
+    std::cout << "&ref_double_data: " << &ref_double_data <<std::endl;
+    std::cout << "sizeof(ref_double_data): " << sizeof(ref_double_data) <<std::endl;
+
+    std::cout << "========================================" << std::endl;
+
+    int_data = 111;
+    double_data = 67.2;
+
+    std::cout << "int_data: " << int_data <<std::endl;
+    std::cout << "&int_data: " << &int_data <<std::endl;
+    std::cout << "double_data: " << double_data <<std::endl;
+    std::cout << "&double_data: " << &double_data <<std::endl;
+
+    std::cout << "========================================" << std::endl;
+
+    std::cout << "ref_int_data: " << ref_int_data <<std::endl;
+    std::cout << "&ref_int_data: " << &ref_int_data <<std::endl;
+    std::cout << "ref_double_data: " << ref_double_data <<std::endl;
+    std::cout << "&ref_double_data: " << &ref_double_data <<std::endl;
+
+    std::cout << "========================================" << std::endl;
+
+    ref_int_data = 1012;
+    ref_double_data = 1000.45;
+
+    std::cout << "int_data: " << int_data <<std::endl;
+    std::cout << "&int_data: " << &int_data <<std::endl;
+    std::cout << "double_data: " << double_data <<std::endl;
+    std::cout << "&double_data: " << &double_data <<std::endl;
+
+    std::cout << "========================================" << std::endl;
+
+    std::cout << "ref_int_data: " << ref_int_data <<std::endl;
+    std::cout << "&ref_int_data: " << &ref_int_data <<std::endl;
+    std::cout << "ref_double_data: " << ref_double_data <<std::endl;
+    std::cout << "&ref_double_data: " << &ref_double_data <<std::endl;
+
+    return (0);
+}
+----main_learn_cpp_0113.cpp-----------------------------------------------------
+#include <iostream>
+
+int main()
+{
+    int age {30};
+    int &ref_age {age};
+
+    int length {180};
+    const int &ref_length {length}; // strange that a const reference can be an alias of a non const var
+
+    std::cout << "age: " << age << std::endl;
+    std::cout << "ref_age: " << ref_age << std::endl;
+
+    std::cout << "length: " << length << std::endl;
+    std::cout << "ref_length: " << ref_length << std::endl;
+
+    age++;
+    ref_age++;
+    std::cout << "age: " << age << std::endl;
+    std::cout << "ref_age: " << ref_age << std::endl;
+
+    length++;
+    // ref_length++; // compiler error
+    std::cout << "length: " << length << std::endl;
+    std::cout << "ref_length: " << ref_length << std::endl;
+
+    int *p_age {&age};
+    std::cout << "*p_age: " << *p_age << std::endl;
+
+    *p_age = *p_age + 1;
+    std::cout << "*p_age: " << *p_age << std::endl;
+
+    const int *p_const_age {&age};
+    std::cout << "*p_const_age: " << *p_const_age << std::endl;
+    // *p_const_age = *p_const_age + 1; // compiler error
+
+    return (0);
+}
+--------------------------------------------------------------------------------
+
+Chapter 10: Character Manipulation And Strings
+12:44:29 Character Manipulation And Strings Introduction
+12:46:24 Character Manipulation
+13:09:28 C-String Manipulation
+13:41:42 C-String Concatenation And Copying
+14:01:19 Introducing std::string
+14:03:38 Declaring And Using std::string
+
+https://www.youtube.com/watch?v=8jLOx1hD3_o&t=45869s 12:44:29 Character Manipulation And Strings Introduction
