@@ -4375,3 +4375,5 @@ Chapter 10: Character Manipulation And Strings
 14:03:38 Declaring And Using std::string
 
 https://www.youtube.com/watch?v=8jLOx1hD3_o&t=45869s 12:44:29 Character Manipulation And Strings Introduction
+
+ToDo in 3 weeks Chapter 10..19
